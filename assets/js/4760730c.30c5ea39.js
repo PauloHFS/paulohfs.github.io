@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[5035],{4463:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/paulohernane.me/blog/tags/facebook","allTagsPath":"/paulohernane.me/blog/tags","count":1}')}}]);
