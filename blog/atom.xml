@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
-    <title>My Site Blog</title>
+    <title>Paulo Hernane Blog</title>
     <updated>2023-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
