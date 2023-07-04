@@ -6,6 +6,7 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  // ! The CSS is Broken
   return (
     <header className={styles.heroBanner}>
       <div className="">
