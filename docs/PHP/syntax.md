@@ -22,7 +22,7 @@ A PHP script starts with `<?php` and ends with `?>`
 
 The must need first program in PHP:
 
-```php
+```php showLineNumbers
 // index.php
 /* comment */
 <?php
@@ -38,7 +38,7 @@ A .php file can contain HTML, CSS, JavaScript, and PHP code.
 
 How to declare a variable in PHP:
 
-```php
+```php showLineNumbers
 <?php
     $txt = "Hello World!"; // string
     $x = 5; // integer
@@ -55,7 +55,7 @@ How to declare a variable in PHP:
 
 ## PHP Arithmetic operators
 
-```php
+```php showLineNumbers
 <?php
     $x = 10;
     $y = 2;
@@ -81,41 +81,41 @@ The variables $_GET and $_POST are used to collect form-data.
 
 $_GET the data is visible in the URL with is not secure, has a character limit, and should only be used for sending non-sensitive data, this can be saved in bookmarks with the values, and this requests can be cached with is better for a search page.
 
-```php
-    // index.php
-    <form action="index.php" method="get">
-        <input type="text" name="name"/>
-        <input type="submit" value="send!">
-    </form>
-    
-    // this will return the value of the input
-    // the url will be something like this: http://localhost:8080/index.php?name=hello
+```php showLineNumbers
+// index.php
+<form action="index.php" method="get">
+    <input type="text" name="name"/>
+    <input type="submit" value="send!">
+</form>
 
-    <?php
-        echo $_GET['name'];
-    ?>
+// this will return the value of the input
+// the url will be something like this: http://localhost:8080/index.php?name=hello
+
+<?php
+    echo $_GET['name'];
+?>
 ```
 
 $_POST the data is packaged inside the body of the HTTP request with is more secure, has no data limit, and can be used to send sensitive data, this can't be saved in bookmarks, and this requests can't be cached with is better for a login page.
 
-```php
-    // index.php
-    <form action="index.php" method="post">
-        <input type="text" name="name"/>
-        <input type="submit" value="send!">
-    </form>
-    
-    // this will return the value of the input
-    // the url will be something like this: http://localhost:8080/index.php
+```php showLineNumbers
+// index.php
+<form action="index.php" method="post">
+    <input type="text" name="name"/>
+    <input type="submit" value="send!">
+</form>
 
-    <?php
-        echo $_POST['name'];
-    ?>
+// this will return the value of the input
+// the url will be something like this: http://localhost:8080/index.php
+
+<?php
+    echo $_POST['name'];
+?>
 ```
 
 ## Math Functions
 
-```php
+```php showLineNumbers
 <?php
     echo pi(); // 3.1415926535898
     echo min(0, 150, 30, 20, -8, -200); // -200
@@ -134,7 +134,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ## if condition
 
-```php
+```php showLineNumbers
 <?php
     $t = date("H");
 
@@ -150,7 +150,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ## logical operators
 
-```php
+```php showLineNumbers
 <?php
     $x = 100;  
     $y = 50;
@@ -174,7 +174,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ### switch
 
-```php
+```php showLineNumbers
 <?php
     $favcolor = "red";
 
@@ -196,7 +196,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ### while
 
-```php
+```php showLineNumbers
 <?php
     $x = 1;
 
@@ -209,7 +209,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ### do while
 
-```php
+```php showLineNumbers
 <?php
     $x = 1;
 
@@ -222,7 +222,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ### for
 
-```php
+```php showLineNumbers
 <?php
     for ($x = 0; $x <= 10; $x++) {
         echo "The number is: $x <br>";
@@ -232,7 +232,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ### foreach
 
-```php
+```php showLineNumbers
 <?php
     $colors = array("red", "green", "blue", "yellow");
 
@@ -244,7 +244,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ## Arrays
 
-```php
+```php showLineNumbers
 <?php
 
     $food = array("Pizza", "Hamburger", "Hot dog", "Pasta");
@@ -272,7 +272,7 @@ $_POST the data is packaged inside the body of the HTTP request with is more sec
 
 ## Associative Arrays
 
-```php
+```php showLineNumbers
 <?php
     $ages = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
 
