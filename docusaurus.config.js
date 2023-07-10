@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Paulo Hernane',
-  tagline: 'Software Engineer',
+  tagline: 'Software Engineer & Freelancer',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,7 +64,51 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-img.png',
+      metadata: [
+        {
+          name: 'og:type',
+          content: 'website',
+        },
+        {
+          name: 'og:url',
+          content: 'https://paulohernane.me',
+        },
+        {
+          name: 'og:title',
+          content: 'Paulo Hernane | Software Engineer | Freelancer',
+        },
+        {
+          name: 'og:description',
+          content:
+            'Engenheiro de Software Freelancer especializado em soluções personalizadas de desenvolvimento. Experiência em várias linguagens de programação e tecnologias. Transforme suas ideias em realidade. Contate-me para um projeto de sucesso.',
+        },
+        {
+          name: 'og:image',
+          content: 'img/social-img.png',
+        },
+        {
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          name: 'twitter:url',
+          content: 'https://paulohernane.me',
+        },
+        {
+          name: 'twitter:title',
+          content: 'Paulo Hernane | Software Engineer | Freelancer',
+        },
+        {
+          name: 'twitter:description',
+          content:
+            'Engenheiro de Software Freelancer especializado em soluções personalizadas de desenvolvimento. Experiência em várias linguagens de programação e tecnologias. Transforme suas ideias em realidade. Contate-me para um projeto de sucesso.',
+        },
+        {
+          name: 'twitter:image',
+          content: 'img/social-img.png',
+        },
+      ],
       navbar: {
         title: 'Paulo Hernane',
         // logo: {
