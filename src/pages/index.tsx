@@ -4,6 +4,10 @@ import React from 'react';
 
 import styles from './index.module.css';
 
+/*
+  This is the page at '/'.
+  - to change the user image, upload a new on my github profile.
+*/
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (

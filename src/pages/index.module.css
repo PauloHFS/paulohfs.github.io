@@ -4,8 +4,12 @@
  */
 
 .banner {
-  display: flex;
   min-height: 80vh;
+
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .banner__avatar {
@@ -14,11 +18,11 @@
 
 @media screen and (max-width: 768px) {
   .banner {
-    flex-direction: column-reverse;
-    align-items: center;
-
-    justify-content: space-evenly;
     text-align: center;
+
+    flex-flow: column-reverse nowrap;
+    align-items: center;
+    justify-content: space-evenly;
   }
 
   .banner__avatar {
