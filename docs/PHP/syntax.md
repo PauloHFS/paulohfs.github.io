@@ -1,3 +1,11 @@
+---
+id: php-syntax
+title: PHP Syntax
+tags:
+  - PHP
+  - Syntax
+---
+
 # PHP Syntax
 
 This are my notes that I take during this course:

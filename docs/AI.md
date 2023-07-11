@@ -1,3 +1,10 @@
+---
+id: ai
+title: AI
+tags:
+  - AI
+---
+
 # AI
 
 Things that I want to learn:
