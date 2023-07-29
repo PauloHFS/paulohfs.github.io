@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[9839],{7791:a=>{a.exports=JSON.parse('{"label":"Syntax","permalink":"/docs/tags/syntax","allTagsPath":"/docs/tags","count":1,"items":[{"id":"PHP/php-syntax","title":"PHP Syntax","description":"This are my notes that I take during this course:","permalink":"/docs/PHP/php-syntax"}]}')}}]);

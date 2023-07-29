@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[4641],{5708:s=>{s.exports=JSON.parse('{"label":"English","permalink":"/docs/tags/english","allTagsPath":"/docs/tags","count":1,"items":[{"id":"English/english-simple-past","title":"Simple Past","description":"","permalink":"/docs/English/english-simple-past"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[9347],{173:a=>{a.exports=JSON.parse('{"label":"MER","permalink":"/docs/tags/mer","allTagsPath":"/docs/tags","count":1,"items":[{"id":"databases/data-model-types","title":"Types of Data Model","description":"1. Conceptual Data Models","permalink":"/docs/databases/data-model-types"}]}')}}]);
