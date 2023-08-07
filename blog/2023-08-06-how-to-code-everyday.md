@@ -30,3 +30,7 @@ A Coding Menu is a list of projects/exercises that you may want to work on. You 
 *Time is just a example, you can change it to fit your routine. Always ask how much time do you have!*
 
 *Activity is just a example, must be something fun that you can do, try to build projects!*
+
+## Userful Links
+
+[How To Code Everyday - bigboxSWE](https://youtu.be/a0eB7tMkvs4)
