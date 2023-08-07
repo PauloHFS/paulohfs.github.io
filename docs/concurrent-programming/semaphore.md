@@ -7,7 +7,7 @@ tags:
     - Mutex
     - Exclusion
     - Race Condition
-    - Rendezvous    
+    - Rendezvous        
 ---
 
 # Semaphore
