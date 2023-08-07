@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[7896],{8970:e=>{e.exports=JSON.parse('{"label":"Rendezvous","permalink":"/docs/tags/rendezvous","allTagsPath":"/docs/tags","count":1,"items":[{"id":"concurrent-programming/semaphore","title":"Semaphore","description":"\x3c!--","permalink":"/docs/concurrent-programming/semaphore"}]}')}}]);

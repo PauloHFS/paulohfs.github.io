@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[1241],{1064:e=>{e.exports=JSON.parse('{"label":"Exclusion","permalink":"/docs/tags/exclusion","allTagsPath":"/docs/tags","count":1,"items":[{"id":"concurrent-programming/semaphore","title":"Semaphore","description":"\x3c!--","permalink":"/docs/concurrent-programming/semaphore"}]}')}}]);
