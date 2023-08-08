@@ -122,9 +122,6 @@ count = count + 1   # only one thread can run this line per time
 mutex.signal()      # signalize that the mutex is free
 ```
 
-```py
-```
-
 ## Multiplex
 
 Multiplex is a solution like Multex, but now we can have `n` threads running the `critical region` at the same time.
@@ -176,7 +173,7 @@ For this example, we can have 3 scenarios:
 
 ## Barrier
 
-Barrier is a generalization of the Rendezvous pattern. In this pattern, we can have `n` threads waiting for each other.
+Barrier is a generalization of the Rendezvous pattern. In this pattern, we can have `n` threads waiting for each other. So, when `n` threads arrive at the barrier, all threads are unblocked.
 
 Example:
 
@@ -227,7 +224,6 @@ Let simulate a execution with this 3 threads:
 Lets implement a Barrier using a Semaphore:
 
 ```py
-
 class Barrier() 
     def __init__(self, n):
         self.count = n
@@ -241,9 +237,101 @@ class Barrier()
             self.barrier.wait() # block n - 1 first threads, the last thread never run this line
         self.mutex.signal()
         self.barrier.signal() # the last thread will be the first to run this line, will unblock one thread and the other threads will run this line in sequence
-
 ```
 
 ## Reusable Barrier
 
+> Need to study more about this pattern.
+
 ## Queue
+
+> Need to study more about this pattern.
+
+Queue is a pattern where a thread can wait for another thread to run something. We want that on thread run a code alongside other runs another.
+
+Example:
+
+- `f1` must run alongside `f2`;
+- Thread A or B can run before the other.
+
+```py
+# main
+
+f1Queue = Semaphore(0)
+f2Queue = Semaphore(0)
+```
+
+```py
+# Thread A
+
+f2Queue.signal() # Thread A signalize that it wants to run f1 alongside f2
+f1Queue.wait() # Thread A wait to Thread B signalize that it can run f1
+f1()
+```
+
+```py
+# Thread B
+
+f1Queue.signal() # Thread B signalize that it wants to run f2 alongside f1
+f2Queue.wait() # Thread B wait to Thread A signalize that it can run f2
+f2()
+```
+
+*This is like a Rendezvous*
+
+Lets simulate a execution with this 2 threads:
+
+- The Schedule will order the threads in this order: A -> B;
+
+1. Thread A will run `f2Queue.signal()`, the semaphore `f2Queue` will be incremented to `1`;
+2. Thread A will run `f1Queue.wait()`, the semaphore `f1Queue` will be decremented to `-1`, and the thread will be blocked;
+3. Thread B will run `f1Queue.signal()`, the semaphore `f1Queue` will be incremented to `0`;
+4. Thread B will run `f2Queue.wait()`, the semaphore `f2Queue` will be decremented to `0`;
+5. Now both threads are unblocked and can run `f1` and `f2` alongside.
+
+### Exclusive Queue
+
+Exclusive Queue is a pattern where the thread that is blocking is only running with the thread that signalize it.
+
+```py
+# main
+
+f1Counter = f2Counter = 0
+mutex = Semaphore(1)
+f1Queue = Semaphore(0)
+f2Queue = Semaphore(0)
+rendezvous = Semaphore(0)
+```
+
+```py
+# Thread A
+
+mutex.wait()
+if f1Count > 0:
+    f1Counter--
+    f1Queue.signal()
+else:
+    f2Counter++
+    mutex.signal()
+    f2Queue.wait() #t1
+
+f1()
+rendezvous.wait()
+mutex.signal()
+```
+
+```py
+# Thread B
+
+mutex.wait()
+if f2Counter > 0:
+    f2Counter--
+    f2Queue.signal()
+else:
+    f1Counter++
+    mutex.signal()
+    f1Queue.wait()
+
+f2()
+rendezvous.signal()
+```
