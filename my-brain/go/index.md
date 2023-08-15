@@ -2,9 +2,9 @@
 id: go-programming-language
 title: Go
 tags: 
-    -- Go
-    -- Programming Language
-    -- Concurrent Programming
+    - Go
+    - Programming Language
+    - Concurrent Programming
 ---
 
 # Go

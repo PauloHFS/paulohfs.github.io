@@ -14,6 +14,7 @@ tags:
     - Multiplex
     - Signalizing
     - Busy Waiting    
+    - Conditional Variables
 ---
 
 # Basic Synchronization Patterns
@@ -335,3 +336,45 @@ else:
 f2()
 rendezvous.signal()
 ```
+
+## Condition Variables
+
+This pattern is used to allow a thread take of the scheduling queue until there is a signal from another thread. This allow a thread wait until another thread finish some work.
+
+Example:
+
+```c
+// main
+
+int is_done;
+mutex_t done_lock;
+cond_t done_cond;
+```
+
+```c
+// Thread A
+
+mutex_lock(&done_lock) // lock the mutex to access is_done
+is_done = 1; // signalize that the work is done
+cond_signal(&done_cond) // signalize to all threads that are waiting in the done_cond
+mutex_unlock(&done_lock) // unlock the mutex 
+```
+
+```c
+# Thread B
+
+mutex_lock(&done_lock) // lock the mutex to access is_done
+if (!is_done) // if the work is not done
+    cond_wait(&done_cond, &done_lock) // wait until the condition is done
+mutex_unlock(&done_lock) // unlock the mutex
+```
+
+In this example, the Thread B will wait until the Thread A signalize that the work is done.
+
+The thread B will execute this steps:
+
+1. Lock the mutex to access the variable `is_done`;
+2. Check if the work is done;
+3. If the work is not done, call `cond_wait` that will put thread to wait until the `done_cond` is done, and will unlock the mutex `done_lock`;
+4. When the `done_cond` is done, the thread will be unblocked and will lock the mutex `done_lock`;
+5. Then the thread will unlock the mutex `done_lock` and will continue the execution.;
