@@ -4,10 +4,19 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Sun, 06 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 1 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-1-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-1-100-days-of-code</guid>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Day 1/100 Progress]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1100-progress">Day 1/100 Progress<a href="#day-1100-progress" class="hash-link" aria-label="Direct link to Day 1/100 Progress" title="Direct link to Day 1/100 Progress">​</a></h2><p>Today I started studying Go by doing the exercises in the repository of <a href="https://twitter.com/wagslane" target="_blank" rel="noopener noreferrer">@wagslane</a> <a href="https://github.com/bootdotdev/fcc-learn-golang-assets" target="_blank" rel="noopener noreferrer">https://github.com/bootdotdev/fcc-learn-golang-assets</a>.</p><p>In the afternoon I had a data science class in the college and I did an evaluation on histogram interpretation, besides that I started to do an exploratory analysis of the following dataset <a href="https://kaggle.com/datasets/spscientist/students-performance-in-exams" target="_blank" rel="noopener noreferrer">Students Performace in Exams</a> that will validate a laboratory grade in this discipline.</p><p>At night I studied the concept of <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf" target="_blank" rel="noopener noreferrer">Conditional Variable</a> that in concurrent programming causes a thread to wait for another to execute, the famous join()!</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
         <item>
             <title><![CDATA[How to Code Everyday]]></title>
             <link>https://www.paulohernane.me/blog/how-to-code-everyday</link>
