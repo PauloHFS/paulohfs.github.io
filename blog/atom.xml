@@ -12,8 +12,8 @@
         <id>https://www.paulohernane.me/blog/day-1-100-days-of-code</id>
         <link href="https://www.paulohernane.me/blog/day-1-100-days-of-code"/>
         <updated>2023-08-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Day 1/100 Progress]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1100-progress">Day 1/100 Progress<a href="#day-1100-progress" class="hash-link" aria-label="Direct link to Day 1/100 Progress" title="Direct link to Day 1/100 Progress">​</a></h2><p>Today I started studying Go by doing the exercises in the repository of <a href="https://twitter.com/wagslane" target="_blank" rel="noopener noreferrer">@wagslane</a> <a href="https://github.com/bootdotdev/fcc-learn-golang-assets" target="_blank" rel="noopener noreferrer">https://github.com/bootdotdev/fcc-learn-golang-assets</a>.</p><p>In the afternoon I had a data science class in the college and I did an evaluation on histogram interpretation, besides that I started to do an exploratory analysis of the following dataset <a href="https://kaggle.com/datasets/spscientist/students-performance-in-exams" target="_blank" rel="noopener noreferrer">Students Performace in Exams</a> that will validate a laboratory grade in this discipline.</p><p>At night I studied the concept of <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf" target="_blank" rel="noopener noreferrer">Conditional Variable</a> that in concurrent programming causes a thread to wait for another to execute, the famous join()!</p>]]></content>
+        <summary type="html"><![CDATA[Today I started studying Go by doing the exercises in the repository of @wagslane .]]></summary>
+        <content type="html"><![CDATA[<p>Today I started studying Go by doing the exercises in the repository of <a href="https://twitter.com/wagslane" target="_blank" rel="noopener noreferrer">@wagslane</a> <a href="https://github.com/bootdotdev/fcc-learn-golang-assets" target="_blank" rel="noopener noreferrer">https://github.com/bootdotdev/fcc-learn-golang-assets</a>.</p><p>In the afternoon I had a data science class in the college and I did an evaluation on histogram interpretation, besides that I started to do an exploratory analysis of the following dataset <a href="https://kaggle.com/datasets/spscientist/students-performance-in-exams" target="_blank" rel="noopener noreferrer">Students Performace in Exams</a> that will validate a laboratory grade in this discipline.</p><p>At night I studied the concept of <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf" target="_blank" rel="noopener noreferrer">Conditional Variable</a> that in concurrent programming causes a thread to wait for another to execute, the famous join()!</p>]]></content>
         <author>
             <name>Paulo Hernane Fontes e Silva</name>
             <uri>https://github.com/paulohfs</uri>
@@ -34,17 +34,5 @@
         <category label="code" term="code"/>
         <category label="programming" term="programming"/>
         <category label="routine" term="routine"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://www.paulohernane.me/blog/hello-world</id>
-        <link href="https://www.paulohernane.me/blog/hello-world"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <author>
-            <name>Paulo Hernane Fontes e Silva</name>
-            <uri>https://github.com/paulohfs</uri>
-        </author>
-        <category label="hello-world" term="hello-world"/>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
