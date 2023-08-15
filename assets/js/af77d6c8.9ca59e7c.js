@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[4259],{2050:a=>{a.exports=JSON.parse('{"label":"Synchronization Patterns","permalink":"/blog/tags/synchronization-patterns","allTagsPath":"/blog/tags","count":1}')}}]);

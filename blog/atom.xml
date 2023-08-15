@@ -19,6 +19,10 @@
             <uri>https://github.com/paulohfs</uri>
         </author>
         <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Go" term="Go"/>
+        <category label="Data Science" term="Data Science"/>
+        <category label="Concurrent Programming" term="Concurrent Programming"/>
+        <category label="Synchronization Patterns" term="Synchronization Patterns"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Code Everyday]]></title>
