@@ -243,7 +243,6 @@ class Barrier()
 
 > Need to study more about this pattern.
 
-
 ## Queue
 
 > Need to study more about this pattern.

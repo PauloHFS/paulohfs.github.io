@@ -2,7 +2,7 @@
 slug: day-1-100-days-of-code
 title: Day 1 of 100 Days of Code
 authors: paulohfs
-tags: [100DaysOfCode]
+tags: [100DaysOfCode, Go, Data Science, Concurrent Programming, Synchronization Patterns]
 ---
 
 Today I started studying Go by doing the exercises in the repository of [@wagslane](https://twitter.com/wagslane) <https://github.com/bootdotdev/fcc-learn-golang-assets>.
