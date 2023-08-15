@@ -361,7 +361,7 @@ mutex_unlock(&done_lock) // unlock the mutex
 ```
 
 ```c
-# Thread B
+// Thread B
 
 mutex_lock(&done_lock) // lock the mutex to access is_done
 if (!is_done) // if the work is not done
@@ -378,3 +378,5 @@ The thread B will execute this steps:
 3. If the work is not done, call `cond_wait` that will put thread to wait until the `done_cond` is done, and will unlock the mutex `done_lock`;
 4. When the `done_cond` is done, the thread will be unblocked and will lock the mutex `done_lock`;
 5. Then the thread will unlock the mutex `done_lock` and will continue the execution.;
+
+There is another command called `broadcast(&done_cond)` that will signalize to all threads that are waiting in the `done_cond`.

@@ -5,10 +5,11 @@ tags:
     - Concurrent Programming
     - Synchronization Patterns
 ---
-
 # Classical Synchronization Problems
 
 ## Producer-Consumer Problem
+
+### Solving using Semaphores
 
 ```py
 # main
@@ -59,4 +60,45 @@ def consumer():
         producerDone.wait()
         v = buffer.get()
         print(v)
+```
+
+## Solving using Conditional Variable
+
+```c
+// main
+
+int *buffer;
+mutex_t buffer_mutex;
+cond_t fill;
+cond_t empty
+
+sem_init(&buffer_mutex, 1);
+```
+
+```c
+// Producer
+
+for (int i; i < 100; i++) {
+    mutex_lock(&buffer_mutex) 
+    while (buffer_is_full(&buffer) {
+        cond_wait(&empty, &buffer_mutex) 
+    }
+    put(&buffer, i) 
+    cond_signal(&fill)  
+    mutex_unlock(&buffer_mutex) 
+}
+```
+
+```c
+// Consumer
+
+for (int i; i < 100; i++) {
+    mutex_lock(&buffer_mutex) 
+    while (buffer_is_empty(&buffer) {
+        cond_wait(&fill, &buffer_mutex) 
+    }
+    take(&buffer)
+    cond_signal(&empty)
+    mutex_unlock(&buffer_mutex)
+}
 ```
