@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[930],{7761:e=>{e.exports=JSON.parse('{"label":"Data Science","permalink":"/blog/tags/data-science","allTagsPath":"/blog/tags","count":1}')}}]);

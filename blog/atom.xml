@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-15T00:00:00.000Z</updated>
+    <updated>2023-08-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 3 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-3-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-3-100-days-of-code"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I finished the second lab for my Data Science class, I used Pandas and Seaborn library to plot some histograms and boxplots, maybe I would write a post about it soon. You can check the notebook here.]]></summary>
+        <content type="html"><![CDATA[<p>Today I finished the second lab for my Data Science class, I used Pandas and <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">Seaborn</a> library to plot some histograms and boxplots, maybe I would write a post about it soon. You can check the notebook <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1/blob/main/Lab2A_EDA%2C_Histogramas%2C_Sumarizacao.ipynb" target="_blank" rel="noopener noreferrer">here</a>.</p><p>I also study English and Concurrent Program to a exam that I will have tomorrow.</p>]]></content>
+        <author>
+            <name>Paulo Hernane Fontes e Silva</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Seaborn" term="Seaborn"/>
+        <category label="Pandas" term="Pandas"/>
+        <category label="Data Science" term="Data Science"/>
+        <category label="English" term="English"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 2 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-2-100-days-of-code</id>

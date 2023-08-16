@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[8057],{2915:e=>{e.exports=JSON.parse('{"label":"Seaborn","permalink":"/blog/tags/seaborn","allTagsPath":"/blog/tags","count":1}')}}]);
