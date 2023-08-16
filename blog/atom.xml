@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-14T00:00:00.000Z</updated>
+    <updated>2023-08-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 2 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-2-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-2-100-days-of-code"/>
+        <updated>2023-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today was a really full day of work, I have been working to finish a project that I have been working on for a while from the company that I work for, so I didn't have much time to code, but I managed to do some things.]]></summary>
+        <content type="html"><![CDATA[<p>Today was a really full day of work, I have been working to finish a project that I have been working on for a while from the company that I work for, so I didn't have much time to code, but I managed to do some things.</p><p>First of all I study again some concepts of Data Structure, more precisely, about the Binary Search Tree, I have been studying this topic for a while at the college, but I think that I need to study more about it because a will need to use this concepts soon on a exam, so I will do it in the next days. <a href="https://github.com/PauloHFS/data-structures-and-algorithms/tree/main/data-structures/tree" target="_blank" rel="noopener noreferrer">Here</a> is the code that I wrote today and some references that I used to study.</p><p>After that I work a lot to finish a project for the company that I work. As good cause I can apply some concepts that I learn about Next.js and Typescript like <a href="https://formidable.com/blog/2021/react-composition/" target="_blank" rel="noopener noreferrer">React Composition</a> as a example.</p><p>At the end of the day I had a English Class that we discussed about the weather, before that I call with my cousin that is a SE in a company from Canada, we talk a lot about my graduation, my studies, jobs in SE, immigration and english, was really nice to collects some career insights.</p>]]></content>
+        <author>
+            <name>Paulo Hernane Fontes e Silva</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Data Structures" term="Data Structures"/>
+        <category label="Next.js" term="Next.js"/>
+        <category label="Typescript" term="Typescript"/>
+        <category label="React" term="React"/>
+        <category label="English" term="English"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 1 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-1-100-days-of-code</id>
