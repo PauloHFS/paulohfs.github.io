@@ -1,6 +1,8 @@
 ---
 slug: day-4-100-days-of-code
 title: Day 4 of 100 Days of Code
+description: Studying Typescript, ESLint, Prettier and zod
+image: https://github.com/rickmff/100DiasDeCodigo-landing/blob/master/public/thumb.png
 authors: paulohfs
 tags: [100DaysOfCode, Typescript, NodeJS, ESLint, Prettier, zod, English]
 ---
@@ -13,3 +15,6 @@ I do this in a old work project, I rework the configuration because was old and 
 - How to configure ESLint and Prettier to work with Typescript.
 - How to configure the build in this configuration. aka `tsc --build` and `tsc --watch`.
 - How to use zod to validate data in Typescript. I used this library to [parse the .env file](https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables) and validate the environment variables.
+
+Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/).
+Brazil: <https://www.100diasdecodigo.dev/>

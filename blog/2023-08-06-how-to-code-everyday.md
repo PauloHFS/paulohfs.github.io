@@ -2,6 +2,7 @@
 slug: how-to-code-everyday
 title: How to Code Everyday
 authors: paulohfs
+description: How to build a core routine!
 tags: [code, programming, routine]
 ---
 
@@ -16,6 +17,8 @@ The first step is to create a routine. You need to define a time to code every d
 ## 2. Create a Coding Menu
 
 Some times we want to code but we don't know what to. So create a Coding Menu that you can always look and choose a thing to code based on the time and mood that you have.
+
+<!--truncate-->
 
 A Coding Menu is a list of projects/exercises that you may want to work on. You need to split they on blocks of times, for example, a exercise that you can do in 30 minutes, a project that you can do in 1 hour, and so on. A example:
 

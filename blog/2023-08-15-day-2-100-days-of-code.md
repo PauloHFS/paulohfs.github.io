@@ -1,6 +1,8 @@
 ---
 slug: day-2-100-days-of-code
 title: Day 2 of 100 Days of Code
+description: Day 2 working with Next.js and Typescript!
+image: https://github.com/rickmff/100DiasDeCodigo-landing/blob/master/public/thumb.png
 authors: paulohfs
 tags: [100DaysOfCode, Data Structures, Next.js, Typescript, React, English]
 ---

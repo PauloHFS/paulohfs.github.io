@@ -1,6 +1,8 @@
 ---
 slug: day-1-100-days-of-code
 title: Day 1 of 100 Days of Code
+description: Starting the 100 Days of Code Challenge
+image: https://github.com/rickmff/100DiasDeCodigo-landing/blob/master/public/thumb.png
 authors: paulohfs
 tags: [100DaysOfCode, Go, Data Science, Concurrent Programming, Synchronization Patterns]
 ---

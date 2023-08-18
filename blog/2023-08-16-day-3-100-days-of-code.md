@@ -1,6 +1,8 @@
 ---
 slug: day-3-100-days-of-code
 title: Day 3 of 100 Days of Code
+description: Finishing the second lab of my Data Science class
+image: https://github.com/rickmff/100DiasDeCodigo-landing/blob/master/public/thumb.png
 authors: paulohfs
 tags: [100DaysOfCode, Seaborn, Pandas, Data Science, English]
 ---
