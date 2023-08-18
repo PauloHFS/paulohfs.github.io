@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-16T00:00:00.000Z</updated>
+    <updated>2023-08-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 4 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-4-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-4-100-days-of-code"/>
+        <updated>2023-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I was very busy with work and college, but I managed to study, so I see this topics today:]]></summary>
+        <content type="html"><![CDATA[<p>Today I was very busy with work and college, but I managed to study, so I see this topics today:</p><p>I do this in a old work project, I rework the configuration because was old and broken, so I can't share the code, but I will try to do a post about this topics soon.</p><ul><li><a href="https://www.digitalocean.com/community/tutorials/typescript-new-project" target="_blank" rel="noopener noreferrer">How to configure Typescript</a> with <a href="https://blog.logrocket.com/configuring-nodemon-with-typescript/" target="_blank" rel="noopener noreferrer">nodemon</a> and ts-node to run a NodeJS project on development mode. I hade some problems with the ESM, that make me see more about use <code>nodenext</code> in the tscompiler configuration.</li><li>How to configure ESLint and Prettier to work with Typescript.</li><li>How to configure the build in this configuration. aka <code>tsc --build</code> and <code>tsc --watch</code>.</li><li>How to use zod to validate data in Typescript. I used this library to <a href="https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables" target="_blank" rel="noopener noreferrer">parse the .env file</a> and validate the environment variables.</li></ul>]]></content>
+        <author>
+            <name>Paulo Hernane Fontes e Silva</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Typescript" term="Typescript"/>
+        <category label="NodeJS" term="NodeJS"/>
+        <category label="ESLint" term="ESLint"/>
+        <category label="Prettier" term="Prettier"/>
+        <category label="zod" term="zod"/>
+        <category label="English" term="English"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 3 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-3-100-days-of-code</id>
