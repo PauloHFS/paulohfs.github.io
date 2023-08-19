@@ -1,7 +1,17 @@
 ---
 id: in-class-exercice-1
 title: In Class Exercice 1
-tags:
+tags: 
+    - ODB
+    - DB
+    - Object Relational Database
+    - Object Types
+    - Object Tables
+    - Methods
+    - Procedures
+    - Functions
+    - REF
+    - CASCADE
 ---
 
 # In Class Exercice 1
