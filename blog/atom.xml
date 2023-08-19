@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-17T00:00:00.000Z</updated>
+    <updated>2023-08-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 5 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-5-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-5-100-days-of-code"/>
+        <updated>2023-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Studying SWC, ORD and Godot]]></summary>
+        <content type="html"><![CDATA[<p>Today was nice, I study lot of things and at the end of the day I release a game!</p><p>I tested the SWC to transpile the ts code, and I setup this to work on a project at work. At afternoon I study about Object Relational Database in college, so I do a little <a href="https://www.paulohernane.me/my-brain/databases/exercicies/in-class-exercice-1" target="_blank" rel="noopener noreferrer">experiments</a> with my professor. At night I studied Godot, and build the 2D game tutorial and release it, you can download it <a href="https://github.com/PauloHFS/dodge-the-creeps" target="_blank" rel="noopener noreferrer">here</a>. I learn a lot of GDScript and the godot engine like: scenes, signals, animation, and more. Was a nice day.</p><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="SWC" term="SWC"/>
+        <category label="ORD" term="ORD"/>
+        <category label="Godot" term="Godot"/>
+        <category label="English" term="English"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 4 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-4-100-days-of-code</id>
