@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-18T00:00:00.000Z</updated>
+    <updated>2023-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 6 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-6-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-6-100-days-of-code"/>
+        <updated>2023-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A slow day, but I do some things]]></summary>
+        <content type="html"><![CDATA[<p>Today was a slow day for me, I can't concentrate to study, but I do some things.</p><ul><li>Study about Concurrency and Parallelism in general. I see the diferences an learning that they are concepts that are related, but not the same thing. I write a <a href="https://www.paulohernane.me/my-brain/concurrent-programming/concurrency-vs-parallelism" target="_blank" rel="noopener noreferrer">node</a> about it.</li><li>I study Golang, start to build a Rest API using a tutorial, but I don't finish it because I fell that I need to learn more about the syntax and the language itself. So I build a validate CPF function with some unit tests, and I learn about the <code>go test</code> command. The validate CPF is a nice function to implement in a new language because its need a lot of things like: string manipulation, loops, type conversion, and more. So it is nice to now what you need to now about a new language!</li></ul><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="go" term="go"/>
+        <category label="English" term="English"/>
+        <category label="Concurrent Programming" term="Concurrent Programming"/>
+        <category label="Process" term="Process"/>
+        <category label="Thread" term="Thread"/>
+        <category label="Routine" term="Routine"/>
+        <category label="Concurrency" term="Concurrency"/>
+        <category label="Parallelism" term="Parallelism"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 5 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-5-100-days-of-code</id>
