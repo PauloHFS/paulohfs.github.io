@@ -4,10 +4,23 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Sat, 19 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 7 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-7-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-7-100-days-of-code</guid>
+            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday of rest and study]]></description>
+            <content:encoded><![CDATA[<p>Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see <a href="https://www.paulohernane.me/my-brain/databases/exercicies/quiz-a1-q1" target="_blank" rel="noopener noreferrer">here</a></p><p>I learn this concepts:</p><ul><li>Object Type</li><li>Object Table</li><li>Function</li><li>Method</li></ul><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+            <category>ODB</category>
+            <category>English</category>
+            <category>Oracle</category>
+            <category>Database</category>
+        </item>
         <item>
             <title><![CDATA[Day 6 of 100 Days of Code]]></title>
             <link>https://www.paulohernane.me/blog/day-6-100-days-of-code</link>
