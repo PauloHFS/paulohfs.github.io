@@ -1,5 +1,5 @@
 ---
-id: Quiz-a2-q
+id: Quiz-a2-q1
 title: Quiz A2Q2
 tags: 
     - ODB

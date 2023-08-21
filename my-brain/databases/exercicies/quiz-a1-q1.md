@@ -9,7 +9,9 @@ tags:
 Com exceção das letras (a) e (b), mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando.
 
 (a) Crie o seu usuário no Oracle Apex. URL: <https://apex.oracle.com/i/index.html>.
+
 (b) Crie o esquema HR Data.
+
 (c) Visualize a estrutura da tabela employees. Atenção: visualizar a estrutura é diferente de visualizar os dados.
 
 ```sql
