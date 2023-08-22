@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-20T00:00:00.000Z</updated>
+    <updated>2023-08-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 8 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-8-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-8-100-days-of-code"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Correlation and Distributed Systems]]></summary>
+        <content type="html"><![CDATA[<p>Today I had a Data Science class and I learned about correlation.You can see my notes <a href="https://www.paulohernane.me/my-brain/data-science/correlation" target="_blank" rel="noopener noreferrer">here</a>, they are incomplete but at the end of this week I will complete them whem reviewing the content to work on a dataset that I had to finish until thursday.</p><p>After that I had some mentorship about distributed systems and some projects to build to improve my skills, you can see the notes <a href="https://www.paulohernane.me/my-brain/system-design" target="_blank" rel="noopener noreferrer">here</a>.</p><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 7 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-7-100-days-of-code</id>
