@@ -4,7 +4,7 @@ title: Day 8 of 100 Days of Code
 description: Correlation and Distributed Systems
 image: https://github.com/rickmff/100DiasDeCodigo-landing/blob/master/public/thumb.png
 authors: paulohfs
-tags: [100DaysOfCode, ]
+tags: [100DaysOfCode, Data Science, Distributed Systems]
 ---
 
 Today I had a Data Science class and I learned about correlation.You can see my notes [here](https://www.paulohernane.me/my-brain/data-science/correlation), they are incomplete but at the end of this week I will complete them whem reviewing the content to work on a dataset that I had to finish until thursday.
