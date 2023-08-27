@@ -39,7 +39,7 @@ CREATE TYPE pessoa_type AS OBJECT
     nome VARCHAR2(50),
     idade INTEGER,
     sexo char(1),
-    -- endereco endereco_type; -- this you dont need to build object table
+    -- endereco endereco_type; -- this you dont need to build object table with the constraint
     endereco REF endereco_type; -- this you need to build object table
 );
 
@@ -50,7 +50,7 @@ CREATE OR REPLACE carro_type AS OBJECT
     marca VARCHAR2(50),
     ano INTEGER,
     cor VARCHAR2(50),
-    -- proprietario pessoa_type, or -- this you dont need to build object table
+    -- proprietario pessoa_type, or -- this you dont need to build object table with the constraint
     proprietario REF pessoa_type -- this you need to build object table
 )
 -----------------------------------------------
