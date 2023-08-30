@@ -1,3 +1,12 @@
+---
+id: Inter-Process Communication
+title: inter-process-communication
+tags:
+    - Distributed Systems
+    - Inter-Process Communication
+    - IPC
+---
+
 # Inter-Process Communication (IPC)
 
 All the time the processes need to communicate with each other to exchange information, like a server with a database, this process is called **Inter-Process Communication**.
