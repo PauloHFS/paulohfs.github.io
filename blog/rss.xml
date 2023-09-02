@@ -4,10 +4,28 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Wed, 30 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 18 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-18-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-18-100-days-of-code</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Continue to implement a project to college using expo, expo router, zustand e supabase]]></description>
+            <content:encoded><![CDATA[<p>Today I refactor some screen of the app that I'm building to study some concepts, I'm using expo, expo router, zustand e supabase. I'm using this project to learn more about this technologies and to test some concepts. I will start to write some test cause I want to learn more about testing in react native.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 17 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-17-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-17-100-days-of-code</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Study about mobile develop]]></description>
+            <content:encoded><![CDATA[<p>Today I continue to implement a project to college using expo, expo router, zustand e supabase. I'm using this project to learn more about this technologies and to test some concepts. I will start to write some test cause I want to learn more about testing in react native.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
         <item>
             <title><![CDATA[Day 16 of 100 Days of Code]]></title>
             <link>https://www.paulohernane.me/blog/day-16-100-days-of-code</link>
