@@ -2,11 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.paulohernane.me/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2023-08-22T00:00:00.000Z</updated>
+    <updated>2023-08-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.paulohernane.me/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://www.paulohernane.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 16 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-16-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-16-100-days-of-code"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Study a lot about node js and legacy code]]></summary>
+        <content type="html"><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 16 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-16-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-16-100-days-of-code"/>
+        <updated>2023-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hard day of work ;D]]></summary>
+        <content type="html"><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 14 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-14-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-14-100-days-of-code"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Science]]></summary>
+        <content type="html"><![CDATA[<p>Today I start to solve a colab notebook from college. In this notebook, I use the pandas library to read a csv file and do some data analysis. The dataset that I used was <a href="https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fspscientist%2Fstudents-performance-in-exams" target="_blank" rel="noopener noreferrer">this</a>. The focus of this notebook was to use the <a href="https://plotly.com/python" target="_blank" rel="noopener noreferrer">plotly</a> library to create some graphs.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="DataScience" term="DataScience"/>
+        <category label="Python" term="Python"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 13 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-13-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-13-100-days-of-code"/>
+        <updated>2023-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Expo Router, Supabase, PostgreSQL]]></summary>
+        <content type="html"><![CDATA[<p>Today I continue to implements the Supabase to my project, I also learn about the new expo router and how to use it.</p><p>Also I start to read the book The art of multi-processors programming.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 12 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-12-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-12-100-days-of-code"/>
+        <updated>2023-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Expo Router, Supabase, PostgreSQL]]></summary>
+        <content type="html"><![CDATA[<p>Today I start to integrate Supabase to my project using the expo, I also learn about the new expo router and how to use it.</p><p>Using the Supabase I start to learn some new thing like: Row Level Security, Stored Procedures, Triggers, PL/pgSQL, and Functions.</p><p>I also learn more about the <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a> and how to use it.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 11 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-11-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-11-100-days-of-code"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I continue to study about the Object Relational Database using Oracle DB to a exam that I had at afternoon.]]></summary>
+        <content type="html"><![CDATA[<p>Today I continue to study about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I had at afternoon.</p><p>At night I start to build a project using the expo and learn about the new expo router.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Oracle" term="Oracle"/>
+        <category label="DB" term="DB"/>
+        <category label="ODB" term="ODB"/>
+        <category label="Object Relational Database" term="Object Relational Database"/>
+        <category label="Object Types" term="Object Types"/>
+        <category label="Object Tables" term="Object Tables"/>
+        <category label="Methods" term="Methods"/>
+        <category label="Procedures" term="Procedures"/>
+        <category label="Functions" term="Functions"/>
+        <category label="VArray" term="VArray"/>
+        <category label="Nested Tables" term="Nested Tables"/>
+        <category label="Expo" term="Expo"/>
+        <category label="React Native" term="React Native"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 10 of 100 Days of Code]]></title>
+        <id>https://www.paulohernane.me/blog/day-10-100-days-of-code</id>
+        <link href="https://www.paulohernane.me/blog/day-10-100-days-of-code"/>
+        <updated>2023-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Study to a exam]]></summary>
+        <content type="html"><![CDATA[<p>Today I studied about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I have tomorrow.</p><p>I learn about:</p><ul><li>Object Types</li><li>Object Tables</li><li>Methods (Procedures &amp; Functions)</li><li>VArray</li><li>Nested Tables</li></ul>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/paulohfs</uri>
+        </author>
+        <category label="100DaysOfCode" term="100DaysOfCode"/>
+        <category label="Oracle" term="Oracle"/>
+        <category label="DB" term="DB"/>
+        <category label="ODB" term="ODB"/>
+        <category label="Object Relational Database" term="Object Relational Database"/>
+        <category label="Object Types" term="Object Types"/>
+        <category label="Object Tables" term="Object Tables"/>
+        <category label="Methods" term="Methods"/>
+        <category label="Procedures" term="Procedures"/>
+        <category label="Functions" term="Functions"/>
+        <category label="VArray" term="VArray"/>
+        <category label="Nested Tables" term="Nested Tables"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 9 of 100 Days of Code]]></title>
         <id>https://www.paulohernane.me/blog/day-9-100-days-of-code</id>

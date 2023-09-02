@@ -4,10 +4,99 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Tue, 22 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 16 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-16-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-16-100-days-of-code</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Study a lot about node js and legacy code]]></description>
+            <content:encoded><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 16 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-16-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-16-100-days-of-code</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hard day of work ;D]]></description>
+            <content:encoded><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 14 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-14-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-14-100-days-of-code</guid>
+            <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Data Science]]></description>
+            <content:encoded><![CDATA[<p>Today I start to solve a colab notebook from college. In this notebook, I use the pandas library to read a csv file and do some data analysis. The dataset that I used was <a href="https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fspscientist%2Fstudents-performance-in-exams" target="_blank" rel="noopener noreferrer">this</a>. The focus of this notebook was to use the <a href="https://plotly.com/python" target="_blank" rel="noopener noreferrer">plotly</a> library to create some graphs.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+            <category>DataScience</category>
+            <category>Python</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 13 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-13-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-13-100-days-of-code</guid>
+            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Expo Router, Supabase, PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Today I continue to implements the Supabase to my project, I also learn about the new expo router and how to use it.</p><p>Also I start to read the book The art of multi-processors programming.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 12 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-12-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-12-100-days-of-code</guid>
+            <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Expo Router, Supabase, PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Today I start to integrate Supabase to my project using the expo, I also learn about the new expo router and how to use it.</p><p>Using the Supabase I start to learn some new thing like: Row Level Security, Stored Procedures, Triggers, PL/pgSQL, and Functions.</p><p>I also learn more about the <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a> and how to use it.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 11 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-11-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-11-100-days-of-code</guid>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today I continue to study about the Object Relational Database using Oracle DB to a exam that I had at afternoon.]]></description>
+            <content:encoded><![CDATA[<p>Today I continue to study about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I had at afternoon.</p><p>At night I start to build a project using the expo and learn about the new expo router.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+            <category>Oracle</category>
+            <category>DB</category>
+            <category>ODB</category>
+            <category>Object Relational Database</category>
+            <category>Object Types</category>
+            <category>Object Tables</category>
+            <category>Methods</category>
+            <category>Procedures</category>
+            <category>Functions</category>
+            <category>VArray</category>
+            <category>Nested Tables</category>
+            <category>Expo</category>
+            <category>React Native</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 10 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-10-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-10-100-days-of-code</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Study to a exam]]></description>
+            <content:encoded><![CDATA[<p>Today I studied about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I have tomorrow.</p><p>I learn about:</p><ul><li>Object Types</li><li>Object Tables</li><li>Methods (Procedures &amp; Functions)</li><li>VArray</li><li>Nested Tables</li></ul>]]></content:encoded>
+            <category>100DaysOfCode</category>
+            <category>Oracle</category>
+            <category>DB</category>
+            <category>ODB</category>
+            <category>Object Relational Database</category>
+            <category>Object Types</category>
+            <category>Object Tables</category>
+            <category>Methods</category>
+            <category>Procedures</category>
+            <category>Functions</category>
+            <category>VArray</category>
+            <category>Nested Tables</category>
+        </item>
         <item>
             <title><![CDATA[Day 9 of 100 Days of Code]]></title>
             <link>https://www.paulohernane.me/blog/day-9-100-days-of-code</link>
