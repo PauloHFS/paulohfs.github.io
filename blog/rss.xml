@@ -36,12 +36,12 @@
             <category>100DaysOfCode</category>
         </item>
         <item>
-            <title><![CDATA[Day 16 of 100 Days of Code]]></title>
-            <link>https://www.paulohernane.me/blog/day-16-100-days-of-code</link>
-            <guid>https://www.paulohernane.me/blog/day-16-100-days-of-code</guid>
+            <title><![CDATA[Day 15 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-15-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-15-100-days-of-code</guid>
             <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hard day of work ;D]]></description>
-            <content:encoded><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Today I start to build a prof of concept to test some concepts like Idempotency, Batch Processing, Circuit Breaker, background jobs, and message queues. I build this project relearn how to configure node with typescript and build the project with Dockerfile and run a infra local with docker-compose. <a href="https://github.com/PauloHFS/idempotency-poc" target="_blank" rel="noopener noreferrer">Here</a> you can see the source code. Alongside I start to learn more about IPC (Inter-Process Communication).</p>]]></content:encoded>
             <category>100DaysOfCode</category>
         </item>
         <item>
