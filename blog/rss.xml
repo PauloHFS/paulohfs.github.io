@@ -4,10 +4,37 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 21 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-21-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-21-100-days-of-code</guid>
+            <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[machine learning, algorithms]]></description>
+            <content:encoded><![CDATA[<p>Today I study about about Machine Learning, specifically about the K-Means Clustering Algorithm, you can see my notes <a href="https://www.paulohernane.me/my-brain/data-science/machine-learning/k-means-clustering" target="_blank" rel="noopener noreferrer">here</a>, and the code <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1" target="_blank" rel="noopener noreferrer">here</a>.</p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about K-Means Clustering Algorithm</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about Expectation Maximization Algorithm</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about Elbow Method to find the best number of clusters</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Done notebook on college for the K-Means Clustering Algorithm</li></ul>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 20 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-20-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-20-100-days-of-code</guid>
+            <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[College work]]></description>
+            <content:encoded><![CDATA[<p>Today was my rest day and I only study a little about some algorithms that I learn on college.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
+        <item>
+            <title><![CDATA[Day 19 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-19-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-19-100-days-of-code</guid>
+            <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I setup a minecraft modded server]]></description>
+            <content:encoded><![CDATA[<p>So today is my birthday, so I work on something special, today with my friends I build a minecraft modpack and buy a host to upload a minecraft server, so I spend all day building the server and configuring the mods.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
         <item>
             <title><![CDATA[Day 18 of 100 Days of Code]]></title>
             <link>https://www.paulohernane.me/blog/day-18-100-days-of-code</link>

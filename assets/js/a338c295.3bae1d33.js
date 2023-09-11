@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[1152],{9382:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/100-days-of-code/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":21,"previousPage":"/blog/tags/100-days-of-code","nextPage":"/blog/tags/100-days-of-code/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
