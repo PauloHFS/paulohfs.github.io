@@ -77,6 +77,10 @@ Where Silhouette Score is (b -a)/max(a, b);
 
 As much next to 1 the score is better the clustering is.
 
+#### Silhouette Analysis on K-Means clustering
+
+You can use this to validate if the K is a good number of clusters to use.
+
 ## Limits of k-means
 
 ### Nonlinear boundaries
