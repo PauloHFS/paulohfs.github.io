@@ -64,7 +64,18 @@ The elbow method is a heuristic method to find the optimal number of clusters. I
 
 ### Silhouette Analysis
 
-> TODO
+The silhouette analysis is a method to validate the goodness of a clustering technique, to get this metric we need to calculate the silhouette coefficient for each sample.
+
+The silhouette coefficient is a measure of how similar an object is to its own cluster (cohesion) compared to other clusters (separation). The silhouette ranges from −1 to +1, where a high value indicates that the object is well matched to its own cluster and poorly matched to neighboring clusters.
+
+![Alt text](image-2.png)
+
+Where Silhouette Score is (b -a)/max(a, b);
+
+- a: mean distance between a sample and all other points in the same class.
+- b: mean distance between a sample and all other points in the next nearest cluster.
+
+As much next to 1 the score is better the clustering is.
 
 ## Limits of k-means
 
@@ -86,3 +97,4 @@ The alternative is to use a subset of the data to find the cluster centers, and 
 
 1. <https://youtu.be/4b5d3muPQmA?si=HrubssPSAWuuN3Un>
 2. Python Data Science Handbook - Jake VanderPlas - Cap 47 - In Depth: k-Means Clustering
+3. <https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c>
