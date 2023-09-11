@@ -32,6 +32,12 @@ We can define a optimal cluster if it satisfies the following conditions:
 - the cluster center is the mean of all points belonging to the cluster
 - each point is closer to its own cluster center than to other cluster centers
 
+### Example
+
+![Alt text](image-3.png)
+
+Here we have a dataset with obivious 2 clusters, and the k-means algorithm is able to find this clusters.
+
 ## Expectation–Maximization (EM) Algorithm
 
 The k-means algorithm NP-Hard, so it is not possible to find the optimal solution in a reasonable amount of time. So, the k-means algorithm uses a heuristic approach to find a solution.
