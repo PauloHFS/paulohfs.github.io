@@ -4,10 +4,19 @@
         <title>Paulo Hernane Blog</title>
         <link>https://www.paulohernane.me/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Sun, 10 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Day 22 of 100 Days of Code]]></title>
+            <link>https://www.paulohernane.me/blog/day-22-100-days-of-code</link>
+            <guid>https://www.paulohernane.me/blog/day-22-100-days-of-code</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[machine learning, algorithms]]></description>
+            <content:encoded><![CDATA[<p>Today I study about the Silhouette Analysis, this is based on generate a metric to validate the correctness of a clustering algorithm. You can see my notes <a href="https://www.paulohernane.me/my-brain/data-science/machine-learning/k-means-clustering" target="_blank" rel="noopener noreferrer">here</a>.</p>]]></content:encoded>
+            <category>100DaysOfCode</category>
+        </item>
         <item>
             <title><![CDATA[Day 21 of 100 Days of Code]]></title>
             <link>https://www.paulohernane.me/blog/day-21-100-days-of-code</link>
