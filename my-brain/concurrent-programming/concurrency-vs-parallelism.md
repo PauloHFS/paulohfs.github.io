@@ -12,6 +12,8 @@ tags:
 
 # Concurrency vs Parallelism
 
+![Alt text](<image.jpg>)
+
 ## Definitions
 
 - **Concurrency** is the act of running and managing multiple computations at the same time.
