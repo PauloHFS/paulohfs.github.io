@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.filter-tab {
+  flex: 1;
+  padding: 1rem 1rem;
+}
+
+.projects-display {
+  flex: 4;
+  padding: 1rem 1rem;
+}
