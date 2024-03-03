@@ -43,5 +43,4 @@ The most used method in ML to build Narrow AI. The neural networks are inspired 
 
 ### Deep Learning
 
-Deep learning is a neural network with a lot of layers (neural). 
-
+Deep learning is a neural network with a lot of layers (neural).
