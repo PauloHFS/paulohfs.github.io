@@ -22,7 +22,8 @@ What is learn? The decision frontier.
 
 ## Why vector?
 
-The "Support Vector" is the coordinate of the data that are the closest to the decision frontier.
+The "Support Vector" is the coordinate of the data that are the closest to the decision frontier. The decision frontier is the hyperplane that separates the data into classes.
+The Support vectors are the nearest data points to the hyperplane. These are the critial elements of a data set, they are what help us to build the SVM.
 
 ## Outliers
 
