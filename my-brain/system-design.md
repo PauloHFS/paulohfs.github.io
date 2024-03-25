@@ -7,7 +7,6 @@ tags:
     - Design Patterns    
 ---
 
-# System Design
 
 Contents that I want to learn about distributed systems:
 
