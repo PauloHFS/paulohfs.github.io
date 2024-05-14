@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.paulohernane.me',
+  url: 'https://paulohfs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'PauloHFS', // Usually your GitHub org/user name.
-  projectName: 'paulohernane.me', // Usually your repo name.
+  projectName: 'paulohfs.github.io', // Usually your repo name.
 
   trailingSlash: false,
 
@@ -74,7 +74,7 @@ const config = {
         },
         {
           name: 'og:url',
-          content: 'https://paulohernane.me',
+          content: 'https://paulohfs.github.io/',
         },
         {
           name: 'og:title',
@@ -95,7 +95,7 @@ const config = {
         },
         {
           name: 'twitter:url',
-          content: 'https://paulohernane.me',
+          content: 'https://paulohfs.github.io/',
         },
         {
           name: 'twitter:title',

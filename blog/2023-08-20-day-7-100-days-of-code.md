@@ -7,7 +7,7 @@ authors: paulohfs
 tags: [100DaysOfCode, ODB, English, Oracle, Database]
 ---
 
-Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see [here](https://www.paulohernane.me/my-brain/databases/exercicies/quiz-a1-q1)
+Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see [here](https://paulohfs.github.io//my-brain/databases/exercicies/quiz-a1-q1)
 
 I learn this concepts:
 
