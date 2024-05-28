@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[7666],{7090:e=>{e.exports=JSON.parse('{"label":"Prettier","permalink":"/blog/tags/prettier","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[6304],{1945:e=>{e.exports=JSON.parse('{"label":"Oracle","permalink":"/blog/tags/oracle","allTagsPath":"/blog/tags","count":3}')}}]);

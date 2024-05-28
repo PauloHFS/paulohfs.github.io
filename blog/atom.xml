@@ -13,7 +13,7 @@
         <link href="https://paulohfs.github.io/blog/day-22-100-days-of-code"/>
         <updated>2023-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[machine learning, algorithms]]></summary>
-        <content type="html"><![CDATA[<p>Today I study about the Silhouette Analysis, this is based on generate a metric to validate the correctness of a clustering algorithm. You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering" target="_blank" rel="noopener noreferrer">here</a>.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I study about the Silhouette Analysis, this is based on generate a metric to validate the correctness of a clustering algorithm. You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering">here</a>.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -26,7 +26,13 @@
         <link href="https://paulohfs.github.io/blog/day-21-100-days-of-code"/>
         <updated>2023-09-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[machine learning, algorithms]]></summary>
-        <content type="html"><![CDATA[<p>Today I study about about Machine Learning, specifically about the K-Means Clustering Algorithm, you can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering" target="_blank" rel="noopener noreferrer">here</a>, and the code <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1" target="_blank" rel="noopener noreferrer">here</a>.</p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about K-Means Clustering Algorithm</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about Expectation Maximization Algorithm</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Study about Elbow Method to find the best number of clusters</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Done notebook on college for the K-Means Clustering Algorithm</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>Today I study about about Machine Learning, specifically about the K-Means Clustering Algorithm, you can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering">here</a>, and the code <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1">here</a>.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about K-Means Clustering Algorithm</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about Expectation Maximization Algorithm</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about Elbow Method to find the best number of clusters</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Done notebook on college for the K-Means Clustering Algorithm</li>
+</ul>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -91,7 +97,15 @@
         <link href="https://paulohfs.github.io/blog/day-16-100-days-of-code"/>
         <updated>2023-08-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Study a lot about node js and legacy code]]></summary>
-        <content type="html"><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p><ul><li>Create a Wiki to document the project</li><li>Search for all the deploys and the history of the project</li><li>Add Sentry to monitor the errors on live project</li><li>Update some dependencies</li><li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li></ul><p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p>
+<ul>
+<li>Create a Wiki to document the project</li>
+<li>Search for all the deploys and the history of the project</li>
+<li>Add Sentry to monitor the errors on live project</li>
+<li>Update some dependencies</li>
+<li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li>
+</ul>
+<p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -104,7 +118,7 @@
         <link href="https://paulohfs.github.io/blog/day-15-100-days-of-code"/>
         <updated>2023-08-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hard day of work ;D]]></summary>
-        <content type="html"><![CDATA[<p>Today I start to build a prof of concept to test some concepts like Idempotency, Batch Processing, Circuit Breaker, background jobs, and message queues. I build this project relearn how to configure node with typescript and build the project with Dockerfile and run a infra local with docker-compose. <a href="https://github.com/PauloHFS/idempotency-poc" target="_blank" rel="noopener noreferrer">Here</a> you can see the source code. Alongside I start to learn more about IPC (Inter-Process Communication).</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I start to build a prof of concept to test some concepts like Idempotency, Batch Processing, Circuit Breaker, background jobs, and message queues. I build this project relearn how to configure node with typescript and build the project with Dockerfile and run a infra local with docker-compose. <a href="https://github.com/PauloHFS/idempotency-poc">Here</a> you can see the source code. Alongside I start to learn more about IPC (Inter-Process Communication).</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -117,7 +131,7 @@
         <link href="https://paulohfs.github.io/blog/day-14-100-days-of-code"/>
         <updated>2023-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Data Science]]></summary>
-        <content type="html"><![CDATA[<p>Today I start to solve a colab notebook from college. In this notebook, I use the pandas library to read a csv file and do some data analysis. The dataset that I used was <a href="https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fspscientist%2Fstudents-performance-in-exams" target="_blank" rel="noopener noreferrer">this</a>. The focus of this notebook was to use the <a href="https://plotly.com/python" target="_blank" rel="noopener noreferrer">plotly</a> library to create some graphs.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I start to solve a colab notebook from college. In this notebook, I use the pandas library to read a csv file and do some data analysis. The dataset that I used was <a href="https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fspscientist%2Fstudents-performance-in-exams">this</a>. The focus of this notebook was to use the <a href="https://plotly.com/python">plotly</a> library to create some graphs.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -132,7 +146,8 @@
         <link href="https://paulohfs.github.io/blog/day-13-100-days-of-code"/>
         <updated>2023-08-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Expo Router, Supabase, PostgreSQL]]></summary>
-        <content type="html"><![CDATA[<p>Today I continue to implements the Supabase to my project, I also learn about the new expo router and how to use it.</p><p>Also I start to read the book The art of multi-processors programming.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I continue to implements the Supabase to my project, I also learn about the new expo router and how to use it.</p>
+<p>Also I start to read the book The art of multi-processors programming.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -145,7 +160,9 @@
         <link href="https://paulohfs.github.io/blog/day-12-100-days-of-code"/>
         <updated>2023-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Expo Router, Supabase, PostgreSQL]]></summary>
-        <content type="html"><![CDATA[<p>Today I start to integrate Supabase to my project using the expo, I also learn about the new expo router and how to use it.</p><p>Using the Supabase I start to learn some new thing like: Row Level Security, Stored Procedures, Triggers, PL/pgSQL, and Functions.</p><p>I also learn more about the <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a> and how to use it.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I start to integrate Supabase to my project using the expo, I also learn about the new expo router and how to use it.</p>
+<p>Using the Supabase I start to learn some new thing like: Row Level Security, Stored Procedures, Triggers, PL/pgSQL, and Functions.</p>
+<p>I also learn more about the <a href="https://www.postgresql.org/">PostgreSQL</a> and how to use it.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -158,7 +175,8 @@
         <link href="https://paulohfs.github.io/blog/day-11-100-days-of-code"/>
         <updated>2023-08-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Today I continue to study about the Object Relational Database using Oracle DB to a exam that I had at afternoon.]]></summary>
-        <content type="html"><![CDATA[<p>Today I continue to study about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I had at afternoon.</p><p>At night I start to build a project using the expo and learn about the new expo router.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I continue to study about the <a href="https://en.wikipedia.org/wiki/Object-relational_database">Object Relational Database</a> using Oracle DB to a exam that I had at afternoon.</p>
+<p>At night I start to build a project using the expo and learn about the new expo router.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -184,7 +202,15 @@
         <link href="https://paulohfs.github.io/blog/day-10-100-days-of-code"/>
         <updated>2023-08-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Study to a exam]]></summary>
-        <content type="html"><![CDATA[<p>Today I studied about the <a href="https://en.wikipedia.org/wiki/Object-relational_database" target="_blank" rel="noopener noreferrer">Object Relational Database</a> using Oracle DB to a exam that I have tomorrow.</p><p>I learn about:</p><ul><li>Object Types</li><li>Object Tables</li><li>Methods (Procedures &amp; Functions)</li><li>VArray</li><li>Nested Tables</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>Today I studied about the <a href="https://en.wikipedia.org/wiki/Object-relational_database">Object Relational Database</a> using Oracle DB to a exam that I have tomorrow.</p>
+<p>I learn about:</p>
+<ul>
+<li>Object Types</li>
+<li>Object Tables</li>
+<li>Methods (Procedures &amp; Functions)</li>
+<li>VArray</li>
+<li>Nested Tables</li>
+</ul>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -208,8 +234,12 @@
         <link href="https://paulohfs.github.io/blog/day-9-100-days-of-code"/>
         <updated>2023-08-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A lot of TypeScript]]></summary>
-        <content type="html"><![CDATA[<p>Today was a hard, I had to update the typescript of a old project so I had to study about the typescript <a href="https://www.typescriptlang.org/docs/handbook/module-resolution.html" target="_blank" rel="noopener noreferrer">module resolution</a> and the <a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html" target="_blank" rel="noopener noreferrer">tsconfig.json</a> file.</p><p>I also studied about Circuit Break and how to implement it in a NodeJS project, I will write about it in the next days.</p><p>References that I used to study:</p><p><a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker" target="_blank" rel="noopener noreferrer">https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker</a>
-<a href="https://youtu.be/H91aqUHn8sE" target="_blank" rel="noopener noreferrer">https://youtu.be/H91aqUHn8sE</a></p><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today was a hard, I had to update the typescript of a old project so I had to study about the typescript <a href="https://www.typescriptlang.org/docs/handbook/module-resolution.html">module resolution</a> and the <a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html">tsconfig.json</a> file.</p>
+<p>I also studied about Circuit Break and how to implement it in a NodeJS project, I will write about it in the next days.</p>
+<p>References that I used to study:</p>
+<p><a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker">https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker</a>
+<a href="https://youtu.be/H91aqUHn8sE">https://youtu.be/H91aqUHn8sE</a></p>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -223,7 +253,9 @@
         <link href="https://paulohfs.github.io/blog/day-8-100-days-of-code"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Correlation and Distributed Systems]]></summary>
-        <content type="html"><![CDATA[<p>Today I had a Data Science class and I learned about correlation.You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/correlation" target="_blank" rel="noopener noreferrer">here</a>, they are incomplete but at the end of this week I will complete them whem reviewing the content to work on a dataset that I had to finish until thursday.</p><p>After that I had some mentorship about distributed systems and some projects to build to improve my skills, you can see the notes <a href="https://paulohfs.github.io//my-brain/system-design" target="_blank" rel="noopener noreferrer">here</a>.</p><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today I had a Data Science class and I learned about correlation.You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/correlation">here</a>, they are incomplete but at the end of this week I will complete them whem reviewing the content to work on a dataset that I had to finish until thursday.</p>
+<p>After that I had some mentorship about distributed systems and some projects to build to improve my skills, you can see the notes <a href="https://paulohfs.github.io//my-brain/system-design">here</a>.</p>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -238,7 +270,15 @@
         <link href="https://paulohfs.github.io/blog/day-7-100-days-of-code"/>
         <updated>2023-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sunday of rest and study]]></summary>
-        <content type="html"><![CDATA[<p>Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see <a href="https://paulohfs.github.io//my-brain/databases/exercicies/quiz-a1-q1" target="_blank" rel="noopener noreferrer">here</a></p><p>I learn this concepts:</p><ul><li>Object Type</li><li>Object Table</li><li>Function</li><li>Method</li></ul><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see <a href="https://paulohfs.github.io//my-brain/databases/exercicies/quiz-a1-q1">here</a></p>
+<p>I learn this concepts:</p>
+<ul>
+<li>Object Type</li>
+<li>Object Table</li>
+<li>Function</li>
+<li>Method</li>
+</ul>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -255,7 +295,12 @@
         <link href="https://paulohfs.github.io/blog/day-6-100-days-of-code"/>
         <updated>2023-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A slow day, but I do some things]]></summary>
-        <content type="html"><![CDATA[<p>Today was a slow day for me, I can't concentrate to study, but I do some things.</p><ul><li>Study about Concurrency and Parallelism in general. I see the diferences an learning that they are concepts that are related, but not the same thing. I write a <a href="https://paulohfs.github.io//my-brain/concurrent-programming/concurrency-vs-parallelism" target="_blank" rel="noopener noreferrer">node</a> about it.</li><li>I study Golang, start to build a Rest API using a tutorial, but I don't finish it because I fell that I need to learn more about the syntax and the language itself. So I build a validate CPF function with some unit tests, and I learn about the <code>go test</code> command. The validate CPF is a nice function to implement in a new language because its need a lot of things like: string manipulation, loops, type conversion, and more. So it is nice to now what you need to now about a new language!</li></ul><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today was a slow day for me, I can't concentrate to study, but I do some things.</p>
+<ul>
+<li>Study about Concurrency and Parallelism in general. I see the diferences an learning that they are concepts that are related, but not the same thing. I write a <a href="https://paulohfs.github.io//my-brain/concurrent-programming/concurrency-vs-parallelism">node</a> about it.</li>
+<li>I study Golang, start to build a Rest API using a tutorial, but I don't finish it because I fell that I need to learn more about the syntax and the language itself. So I build a validate CPF function with some unit tests, and I learn about the <code>go test</code> command. The validate CPF is a nice function to implement in a new language because its need a lot of things like: string manipulation, loops, type conversion, and more. So it is nice to now what you need to now about a new language!</li>
+</ul>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -276,7 +321,9 @@
         <link href="https://paulohfs.github.io/blog/day-5-100-days-of-code"/>
         <updated>2023-08-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Studying SWC, ORD and Godot]]></summary>
-        <content type="html"><![CDATA[<p>Today was nice, I study lot of things and at the end of the day I release a game!</p><p>I tested the SWC to transpile the ts code, and I setup this to work on a project at work. At afternoon I study about Object Relational Database in college, so I do a little <a href="https://paulohfs.github.io//my-brain/databases/exercicies/in-class-exercice-1" target="_blank" rel="noopener noreferrer">experiments</a> with my professor. At night I studied Godot, and build the 2D game tutorial and release it, you can download it <a href="https://github.com/PauloHFS/dodge-the-creeps" target="_blank" rel="noopener noreferrer">here</a>. I learn a lot of GDScript and the godot engine like: scenes, signals, animation, and more. Was a nice day.</p><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">PT-BR</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today was nice, I study lot of things and at the end of the day I release a game!</p>
+<p>I tested the SWC to transpile the ts code, and I setup this to work on a project at work. At afternoon I study about Object Relational Database in college, so I do a little <a href="https://paulohfs.github.io//my-brain/databases/exercicies/in-class-exercice-1">experiments</a> with my professor. At night I studied Godot, and build the 2D game tutorial and release it, you can download it <a href="https://github.com/PauloHFS/dodge-the-creeps">here</a>. I learn a lot of GDScript and the godot engine like: scenes, signals, animation, and more. Was a nice day.</p>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -293,8 +340,16 @@
         <link href="https://paulohfs.github.io/blog/day-4-100-days-of-code"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Studying Typescript, ESLint, Prettier and zod]]></summary>
-        <content type="html"><![CDATA[<p>Today I was very busy with work and college, but I managed to study, so I see this topics today:</p><p>I do this in a old work project, I rework the configuration because was old and broken, so I can't share the code, but I will try to do a post about this topics soon.</p><ul><li><a href="https://www.digitalocean.com/community/tutorials/typescript-new-project" target="_blank" rel="noopener noreferrer">How to configure Typescript</a> with <a href="https://blog.logrocket.com/configuring-nodemon-with-typescript/" target="_blank" rel="noopener noreferrer">nodemon</a> and ts-node to run a NodeJS project on development mode. I hade some problems with the ESM, that make me see more about use <code>nodenext</code> in the tscompiler configuration.</li><li>How to configure ESLint and Prettier to work with Typescript.</li><li>How to configure the build in this configuration. aka <code>tsc --build</code> and <code>tsc --watch</code>.</li><li>How to use zod to validate data in Typescript. I used this library to <a href="https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables" target="_blank" rel="noopener noreferrer">parse the .env file</a> and validate the environment variables.</li></ul><p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">here</a>.
-Brazil: <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener noreferrer">https://www.100diasdecodigo.dev/</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Today I was very busy with work and college, but I managed to study, so I see this topics today:</p>
+<p>I do this in a old work project, I rework the configuration because was old and broken, so I can't share the code, but I will try to do a post about this topics soon.</p>
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/typescript-new-project">How to configure Typescript</a> with <a href="https://blog.logrocket.com/configuring-nodemon-with-typescript/">nodemon</a> and ts-node to run a NodeJS project on development mode. I hade some problems with the ESM, that make me see more about use <code>nodenext</code> in the tscompiler configuration.</li>
+<li>How to configure ESLint and Prettier to work with Typescript.</li>
+<li>How to configure the build in this configuration. aka <code>tsc --build</code> and <code>tsc --watch</code>.</li>
+<li>How to use zod to validate data in Typescript. I used this library to <a href="https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables">parse the .env file</a> and validate the environment variables.</li>
+</ul>
+<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>.
+Brazil: <a href="https://www.100diasdecodigo.dev/">100 dias de codigo</a></p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -313,7 +368,8 @@ Brazil: <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener
         <link href="https://paulohfs.github.io/blog/day-3-100-days-of-code"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Finishing the second lab of my Data Science class]]></summary>
-        <content type="html"><![CDATA[<p>Today I finished the second lab for my Data Science class, I used Pandas and <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">Seaborn</a> library to plot some histograms and boxplots, maybe I would write a post about it soon. You can check the notebook <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1/blob/main/Lab2A_EDA%2C_Histogramas%2C_Sumarizacao.ipynb" target="_blank" rel="noopener noreferrer">here</a>.</p><p>I also study English and Concurrent Programming to a exam that I will have tomorrow.</p>]]></content>
+        <content type="html"><![CDATA[<p>Today I finished the second lab for my Data Science class, I used Pandas and <a href="https://seaborn.pydata.org/">Seaborn</a> library to plot some histograms and boxplots, maybe I would write a post about it soon. You can check the notebook <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1/blob/main/Lab2A_EDA%2C_Histogramas%2C_Sumarizacao.ipynb">here</a>.</p>
+<p>I also study English and Concurrent Programming to a exam that I will have tomorrow.</p>]]></content>
         <author>
             <name>Paulo Hernane</name>
             <uri>https://github.com/paulohfs</uri>
@@ -323,55 +379,5 @@ Brazil: <a href="https://www.100diasdecodigo.dev/" target="_blank" rel="noopener
         <category label="Pandas" term="Pandas"/>
         <category label="Data Science" term="Data Science"/>
         <category label="English" term="English"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 2 of 100 Days of Code]]></title>
-        <id>https://paulohfs.github.io/blog/day-2-100-days-of-code</id>
-        <link href="https://paulohfs.github.io/blog/day-2-100-days-of-code"/>
-        <updated>2023-08-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Day 2 working with Next.js and Typescript!]]></summary>
-        <content type="html"><![CDATA[<p>Today was a really full day of work, I have been working to finish a project that I have been working on for a while from the company that I work for, so I didn't have much time to code, but I managed to do some things.</p><p>First of all I study again some concepts of Data Structure, more precisely, about the Binary Search Tree, I have been studying this topic for a while at the college, but I think that I need to study more about it because a will need to use this concepts soon on a exam, so I will do it in the next days. <a href="https://github.com/PauloHFS/data-structures-and-algorithms/tree/main/data-structures/tree" target="_blank" rel="noopener noreferrer">Here</a> is the code that I wrote today and some references that I used to study.</p><p>After that I work a lot to finish a project for the company that I work. As good cause I can apply some concepts that I learn about Next.js and Typescript like <a href="https://formidable.com/blog/2021/react-composition/" target="_blank" rel="noopener noreferrer">React Composition</a> as a example.</p><p>At the end of the day I had a English Class that we discussed about the weather, before that I call with my cousin that is a SE in a company from Canada, we talk a lot about my graduation, my studies, jobs in SE, immigration and english, was really nice to collects some career insights.</p>]]></content>
-        <author>
-            <name>Paulo Hernane</name>
-            <uri>https://github.com/paulohfs</uri>
-        </author>
-        <category label="100DaysOfCode" term="100DaysOfCode"/>
-        <category label="Data Structures" term="Data Structures"/>
-        <category label="Next.js" term="Next.js"/>
-        <category label="Typescript" term="Typescript"/>
-        <category label="React" term="React"/>
-        <category label="English" term="English"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 1 of 100 Days of Code]]></title>
-        <id>https://paulohfs.github.io/blog/day-1-100-days-of-code</id>
-        <link href="https://paulohfs.github.io/blog/day-1-100-days-of-code"/>
-        <updated>2023-08-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting the 100 Days of Code Challenge]]></summary>
-        <content type="html"><![CDATA[<p>Today I started studying Go by doing the exercises in the repository of <a href="https://twitter.com/wagslane" target="_blank" rel="noopener noreferrer">@wagslane</a> <a href="https://github.com/bootdotdev/fcc-learn-golang-assets" target="_blank" rel="noopener noreferrer">https://github.com/bootdotdev/fcc-learn-golang-assets</a>.</p><p>In the afternoon I had a data science class in the college and I did an evaluation on histogram interpretation, besides that I started to do an exploratory analysis of the following dataset <a href="https://kaggle.com/datasets/spscientist/students-performance-in-exams" target="_blank" rel="noopener noreferrer">Students Performace in Exams</a> that will validate a laboratory grade in this discipline.</p><p>At night I studied the concept of <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf" target="_blank" rel="noopener noreferrer">Conditional Variable</a> that in concurrent programming causes a thread to wait for another to execute, the famous join()!</p>]]></content>
-        <author>
-            <name>Paulo Hernane</name>
-            <uri>https://github.com/paulohfs</uri>
-        </author>
-        <category label="100DaysOfCode" term="100DaysOfCode"/>
-        <category label="Go" term="Go"/>
-        <category label="Data Science" term="Data Science"/>
-        <category label="Concurrent Programming" term="Concurrent Programming"/>
-        <category label="Synchronization Patterns" term="Synchronization Patterns"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code Everyday]]></title>
-        <id>https://paulohfs.github.io/blog/how-to-code-everyday</id>
-        <link href="https://paulohfs.github.io/blog/how-to-code-everyday"/>
-        <updated>2023-08-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to build a core routine!]]></summary>
-        <content type="html"><![CDATA[<p>Code is a skill that you need to practice every day. But some days we don't are in the mood to code, but we fell anxious about it. So, I will share with you some tips that I use to code every day.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-create-a-routine">1. Create a routine<a href="#1-create-a-routine" class="hash-link" aria-label="Direct link to 1. Create a routine" title="Direct link to 1. Create a routine">​</a></h2><p>The first step is to create a routine. You need to define a time to code every day. It can be 30 minutes, 1 hour, or more. The important thing is to code every day.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-create-a-coding-menu">2. Create a Coding Menu<a href="#2-create-a-coding-menu" class="hash-link" aria-label="Direct link to 2. Create a Coding Menu" title="Direct link to 2. Create a Coding Menu">​</a></h2><p>Some times we want to code but we don't know what to. So create a Coding Menu that you can always look and choose a thing to code based on the time and mood that you have.</p><p>A Coding Menu is a list of projects/exercises that you may want to work on. You need to split they on blocks of times, for example, a exercise that you can do in 30 minutes, a project that you can do in 1 hour, and so on. A example:</p><table><thead><tr><th>Time</th><th>Activity</th><th>Links/Notes</th></tr></thead><tbody><tr><td>30 minutes</td><td>Micro-Projects</td><td><a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/" target="_blank" rel="noopener noreferrer">https://www.freecodecamp.org/news/javascript-projects-for-beginners/</a></td></tr><tr><td>30 minutes</td><td>Programming Challenges</td><td><a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer">https://leetcode.com/</a></td></tr><tr><td>1 hour</td><td>Plan &amp; Build a Project</td><td>Create something that you may use</td></tr><tr><td>1 hour</td><td>Study alongside you apply</td><td><a href="https://www.freecodecamp.org/learn/" target="_blank" rel="noopener noreferrer">https://www.freecodecamp.org/learn/</a></td></tr><tr><td>2.5+ hours</td><td>Work on a Project</td><td>Work hard on a project that you want to finish</td></tr></tbody></table><p><em>Time is just a example, you can change it to fit your routine. Always ask how much time do you have!</em></p><p><em>Activity is just a example, must be something fun that you can do, try to build projects!</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="userful-links">Userful Links<a href="#userful-links" class="hash-link" aria-label="Direct link to Userful Links" title="Direct link to Userful Links">​</a></h2><p><a href="https://youtu.be/a0eB7tMkvs4" target="_blank" rel="noopener noreferrer">How To Code Everyday - bigboxSWE</a></p>]]></content>
-        <author>
-            <name>Paulo Hernane</name>
-            <uri>https://github.com/paulohfs</uri>
-        </author>
-        <category label="code" term="code"/>
-        <category label="programming" term="programming"/>
-        <category label="routine" term="routine"/>
     </entry>
 </feed>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[2859],{2070:e=>{e.exports=JSON.parse('{"label":"Nested Tables","permalink":"/blog/tags/nested-tables","allTagsPath":"/blog/tags","count":2}')}}]);

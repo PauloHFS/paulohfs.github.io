@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[9643],{2502:a=>{a.exports=JSON.parse('{"label":"Object Relational Database","permalink":"/blog/tags/object-relational-database","allTagsPath":"/blog/tags","count":2}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[2812],{781:e=>{e.exports=JSON.parse('{"label":"ORD","permalink":"/blog/tags/ord","allTagsPath":"/blog/tags","count":1}')}}]);
