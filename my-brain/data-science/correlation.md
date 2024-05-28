@@ -1,10 +1,10 @@
 ---
 id: correlation
 title: Correlation
-tags: 
-    - Data Science
-    - Statistics
-    - Correlation
+tags:
+  - Data Science
+  - Statistics
+  - Correlation
 ---
 
 # Correlation (or Dependence)
@@ -34,7 +34,7 @@ Covariance is a measure of the joint variability of two random variables. It is 
 The Pearson correlation is commonly used in linear correlations. It is a measure of the linear correlation between two variables X and Y. It has a value between +1 and −1, where 1 is total positive linear correlation, 0 is no linear correlation, and −1 is total negative linear correlation.
 
 $$
-    pX,Y = CORR(X, Y) = \frac{COV(X, Y)}{\sigma_X \sigma_Y} = \frac{E[(X - \mu_X)(Y - \mu_Y)]}{\sigma_X \sigma_Y}
+  pX,Y = CORR(X, Y) = \frac{COV(X, Y)}{\sigma_X \sigma_Y} = \frac{E[(X - \mu_X)(Y - \mu_Y)]}{\sigma_X \sigma_Y}
 $$
 
 ## Spearman Correlation Coefficient
@@ -62,6 +62,6 @@ P-value is the probability of obtaining test results at least as extreme as the 
 
 ### References
 
-<https://en.wikipedia.org/wiki/Joint_probability_distribution>
-<https://en.wikipedia.org/wiki/Correlation>
-<https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation>
+[Joint probability distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)
+[Correlation](https://en.wikipedia.org/wiki/Correlation)
+[Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)

@@ -1,12 +1,12 @@
 ---
 id: Quiz-a4-q1
 title: Quiz A4Q1
-tags: 
-    - ODB
-    - DB
+tags:
+  - ODB
+  - DB
 ---
 
-Usando seu usuário do Oracle Apex (<https://apex.oracle.com/i/index.html>) criado anteriormente, mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle.
+Usando seu usuário do [Oracle Apex](https://apex.oracle.com/i/index.html) criado anteriormente, mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle.
 
 (a) Crie um Object Type chamado DEPARTMENTS_OBJ com a mesma estrutura da tabela relacional DEPARTMENTS, ou seja, os atributos do primeiro devem corresponder as colunas do segundo. Para visualizar a estrutura de DEPARTMENTS basta usar o comando DESCRIBE.
 

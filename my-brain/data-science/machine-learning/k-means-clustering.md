@@ -2,17 +2,17 @@
 id: k-means-clustering
 title: K-Means Clustering
 tags:
-    - Data Science
-    - Machine Learning
-    - Clustering
-    - K-Means
-    - Unsupervised Learning
-    - Scikit-Learn
-    - Python
-    - Expectation–Maximization
-    - EM Algorithm
-    - Elbow Method
-    - Silhouette Analysis
+  - Data Science
+  - Machine Learning
+  - Clustering
+  - K-Means
+  - Unsupervised Learning
+  - Scikit-Learn
+  - Python
+  - Expectation–Maximization
+  - EM Algorithm
+  - Elbow Method
+  - Silhouette Analysis
 ---
 
 # K-Means Clustering
@@ -53,8 +53,8 @@ Using this is k-means algorithm:
 
 1. Randomly choose k points as cluster centers.
 2. Repeat until converged (i.e. cluster center assignments no longer change)):
-    1. (E-step) Assign each data point to the closest cluster center. (Find the distance between each point and each cluster center, and assign each point to the closest cluster center)
-    2. (M-step) Update cluster centers to be the mean of all points assigned to that cluster.
+   1. (E-step) Assign each data point to the closest cluster center. (Find the distance between each point and each cluster center, and assign each point to the closest cluster center)
+   2. (M-step) Update cluster centers to be the mean of all points assigned to that cluster.
 
 ## How to choose the number of clusters
 
@@ -105,6 +105,6 @@ The alternative is to use a subset of the data to find the cluster centers, and 
 
 ### References
 
-1. <https://youtu.be/4b5d3muPQmA?si=HrubssPSAWuuN3Un>
+1. [StatQuest: K-means clustering](https://youtu.be/4b5d3muPQmA?si=HrubssPSAWuuN3Un)
 2. Python Data Science Handbook - Jake VanderPlas - Cap 47 - In Depth: k-Means Clustering
-3. <https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c>
+3. [Silhouette Coefficient: Validating Clustering Techniques](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)

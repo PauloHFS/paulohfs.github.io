@@ -13,7 +13,7 @@ I also studied about Circuit Break and how to implement it in a NodeJS project, 
 
 References that I used to study:
 
-<https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker>
-<https://youtu.be/H91aqUHn8sE>
+[https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+[https://youtu.be/H91aqUHn8sE](https://youtu.be/H91aqUHn8sE)
 
-Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/). [PT-BR](<https://www.100diasdecodigo.dev/>)
+Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/). [PT-BR](https://www.100diasdecodigo.dev/)

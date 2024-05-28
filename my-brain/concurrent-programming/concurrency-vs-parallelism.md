@@ -2,17 +2,17 @@
 id: concurrency-vs-parallelism
 title: Concurrency vs Parallelism
 tags:
-    - Concurrent Programming
-    - Process
-    - Thread
-    - Routine
-    - Concurrency
-    - Parallelism
+  - Concurrent Programming
+  - Process
+  - Thread
+  - Routine
+  - Concurrency
+  - Parallelism
 ---
 
 # Concurrency vs Parallelism
 
-![Alt text](<image.jpg>)
+![Alt text](image.jpg)
 
 ## Definitions
 

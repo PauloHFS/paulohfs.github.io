@@ -1,12 +1,12 @@
 ---
 id: Quiz-a4-q2
 title: Quiz A4Q2
-tags: 
-    - ODB
-    - DB
+tags:
+  - ODB
+  - DB
 ---
 
-Usando seu usuário do Oracle Apex (<https://apex.oracle.com/i/index.html>) criado anteriormente, mostre todos os comandos necessários para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle. Crie apenas o que está sendo pedido.
+Usando seu usuário do [Oracle Apex](https://apex.oracle.com/i/index.html) criado anteriormente, mostre todos os comandos necessários para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle. Crie apenas o que está sendo pedido.
 
 (a) Crie o Object Type EMPRESA_TYPE com os seguintes atributos: CNPJ INTEGER, nome_fantasia VARCHAR2(30), pais VARCHAR2(25) e fundacao DATE.
 
@@ -71,7 +71,7 @@ INSERT INTO funcionario_tab VALUES (
 )
 ```
 
-(g) Modifique o Object Type empresa_type para adicionar o método CONTAEMPREGADOS que conte e retorne a quantidade de funcionários de uma empresa. Adicione e implemente o método. O aluno deve ser capaz de determinar o tipo de método, bem como se deve ser implementado como função ou procedure. Dica: para contar, use o comando SELECT COUNT(*) INTO...FROM...WHERE...
+(g) Modifique o Object Type empresa_type para adicionar o método CONTAEMPREGADOS que conte e retorne a quantidade de funcionários de uma empresa. Adicione e implemente o método. O aluno deve ser capaz de determinar o tipo de método, bem como se deve ser implementado como função ou procedure. Dica: para contar, use o comando SELECT COUNT(\*) INTO...FROM...WHERE...
 
 ```sql
 ALTER TYPE empresa_type ADD STATIC FUNCTION CONTAEMPREGADOS (cnpj NUMBER) RETURN NUMBER CASCADE;

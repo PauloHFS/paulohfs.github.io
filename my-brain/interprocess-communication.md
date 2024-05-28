@@ -2,9 +2,9 @@
 id: Inter-Process Communication
 title: inter-process-communication
 tags:
-    - Distributed Systems
-    - Inter-Process Communication
-    - IPC
+  - Distributed Systems
+  - Inter-Process Communication
+  - IPC
 ---
 
 # Inter-Process Communication (IPC)
@@ -62,4 +62,4 @@ Disadvantages:
 
 ### references
 
-<https://en.wikipedia.org/wiki/Inter-process_communication>
+[Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication)

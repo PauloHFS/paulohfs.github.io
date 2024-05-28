@@ -16,4 +16,4 @@ I learn this concepts:
 - Function
 - Method
 
-Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/). [PT-BR](<https://www.100diasdecodigo.dev/>)
+Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/). [PT-BR](https://www.100diasdecodigo.dev/)

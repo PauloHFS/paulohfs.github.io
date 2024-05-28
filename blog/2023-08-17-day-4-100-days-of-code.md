@@ -17,4 +17,4 @@ I do this in a old work project, I rework the configuration because was old and 
 - How to use zod to validate data in Typescript. I used this library to [parse the .env file](https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables) and validate the environment variables.
 
 Want to know about the 100 Days of Code Challenge? Check it out [here](https://www.100daysofcode.com/).
-Brazil: <https://www.100diasdecodigo.dev/>
+Brazil: [100 dias de codigo](https://www.100diasdecodigo.dev/)

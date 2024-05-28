@@ -1,12 +1,12 @@
 ---
 id: Quiz-a3-q1
 title: Quiz A3Q1
-tags: 
-    - ODB
-    - DB
+tags:
+  - ODB
+  - DB
 ---
 
-Usando seu usuário do Oracle Apex (<https://apex.oracle.com/i/index.html>) criado anteriormente, mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle.
+Usando seu usuário do [Oracle Apex](https://apex.oracle.com/i/index.html) criado anteriormente, mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando. Somente serão aceitas respostas inseridas pelo Moodle.
 
 (a) Crie um Object Type chamado TELEFONE_OBJ_TYPE com os seguintes atributos:
 pais CHAR(3), ddd CHAR(2) e numero CHAR(9).

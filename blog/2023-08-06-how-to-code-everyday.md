@@ -22,17 +22,17 @@ Some times we want to code but we don't know what to. So create a Coding Menu th
 
 A Coding Menu is a list of projects/exercises that you may want to work on. You need to split they on blocks of times, for example, a exercise that you can do in 30 minutes, a project that you can do in 1 hour, and so on. A example:
 
-| Time | Activity | Links/Notes |
-| --- | --- | --- |
-| 30 minutes | Micro-Projects | <https://www.freecodecamp.org/news/javascript-projects-for-beginners/> |
-| 30 minutes | Programming Challenges | <https://leetcode.com/> |
-| 1 hour | Plan & Build a Project | Create something that you may use |
-| 1 hour | Study alongside you apply | <https://www.freecodecamp.org/learn/> |
-| 2.5+ hours | Work on a Project | Work hard on a project that you want to finish |
+| Time       | Activity                  | Links/Notes                                                                                               |
+| ---------- | ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 30 minutes | Micro-Projects            | [JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/) |
+| 30 minutes | Programming Challenges    | [LeetCode](https://leetcode.com/)                                                                         |
+| 1 hour     | Plan & Build a Project    | Create something that you may use                                                                         |
+| 1 hour     | Study alongside you apply | [FreeCodeCamp](https://www.freecodecamp.org/learn/)                                                       |
+| 2.5+ hours | Work on a Project         | Work hard on a project that you want to finish                                                            |
 
-*Time is just a example, you can change it to fit your routine. Always ask how much time do you have!*
+_Time is just a example, you can change it to fit your routine. Always ask how much time do you have!_
 
-*Activity is just a example, must be something fun that you can do, try to build projects!*
+_Activity is just a example, must be something fun that you can do, try to build projects!_
 
 ## Userful Links
 

@@ -1,14 +1,14 @@
 ---
 id: quiz-a1-q1
 title: Quiz A1Q1
-tags: 
-    - ODB
-    - DB
+tags:
+  - ODB
+  - DB
 ---
 
 Com exceção das letras (a) e (b), mostre todos os comandos usados para executar as solicitações abaixo, bem como o resultado de cada comando.
 
-(a) Crie o seu usuário no Oracle Apex. URL: <https://apex.oracle.com/i/index.html>.
+(a) [Crie o seu usuário no Oracle Apex](https://apex.oracle.com/i/index.html).
 
 (b) Crie o esquema HR Data.
 
@@ -56,7 +56,7 @@ Para verificar se todos os departamentos estão associados a um empregado, basta
 ```sql
 SELECT OEHR_EMPLOYEES.FIRST_NAME, OEHR_DEPARTMENTS.DEPARTMENT_ID
 FROM OEHR_DEPARTMENTS
-FULL OUTER JOIN OEHR_EMPLOYEES 
+FULL OUTER JOIN OEHR_EMPLOYEES
 ON OEHR_EMPLOYEES.DEPARTMENT_ID = OEHR_DEPARTMENTS.DEPARTMENT_ID
 WHERE OEHR_EMPLOYEES.FIRST_NAME IS NULL;
 ```
