@@ -1,5 +1,6 @@
 ---
 title: Laliga | Inimigos
+description: Lista dos inimigos publicos dos LaLiga&Rachadores.
 ---
 
 # Inimigos dos LaLiga&Rachadores
