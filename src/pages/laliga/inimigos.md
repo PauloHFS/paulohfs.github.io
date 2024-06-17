@@ -9,8 +9,8 @@ Lista dos inimigos publicos dos LaLiga&Rachadores, há um motivo para cada um de
 
 ## Ranking
 
-1. **Mark Zuckerberg**
 2. **Google Photos**
+1. **Mark Zuckerberg**
 3. **Receita Federal**
 4. Domingo à noite
 5. Igreja q foi contra o relacionamento do kaio
@@ -18,16 +18,19 @@ Lista dos inimigos publicos dos LaLiga&Rachadores, há um motivo para cada um de
 7. Barack Obama
 8. Franceses
 9. Kwid
-10. Brasileiro médio
-11. Cantoras
-12. Telhado de Anor Londor
-13. Peitudas Brasil
-14. Tumba dos Gigantes
-15. Blightown
-16. Julias
-17. Góticas
-18. Google Drive
-19. Twitter
-20. Usuários de Twitter
-21. Only Fans
-22. Privacy
+10. Mulher que não superou ex
+11. Brasileiro médio
+12. Cantoras
+13. Telhado de Anor Londor
+14. Peitudas Brasil
+15. Tumba dos Gigantes
+16. Blightown
+17. Julias
+18. Góticas
+19. Cólica
+20. Google Drive
+21. Twitter
+22. Usuários de Twitter
+23. Only Fans
+24. Privacy
+25. Gupy
