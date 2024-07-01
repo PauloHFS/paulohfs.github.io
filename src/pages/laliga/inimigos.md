@@ -9,8 +9,8 @@ Lista dos inimigos publicos dos LaLiga&Rachadores, há um motivo para cada um de
 
 ## Ranking
 
-2. **Google Photos**
-1. **Mark Zuckerberg**
+1. **Google Photos**
+2. **Mark Zuckerberg**
 3. **Receita Federal**
 4. Domingo à noite
 5. Igreja q foi contra o relacionamento do kaio
