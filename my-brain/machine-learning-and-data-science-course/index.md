@@ -65,3 +65,9 @@ Descriptive: The model learns from the data to describe the data.
 - Sumarization: The model summarizes the data.
 - Sequence discovery: The model finds patterns in the data.
 - Anomaly detection: The model finds outliers in the data.
+
+### Types of Machine Learning
+
+- Supervised: The model learns from labeled data.
+- Unsupervised: The model learns from unlabeled data.
+- Reinforcement: The model learns from rewards and punishments.
