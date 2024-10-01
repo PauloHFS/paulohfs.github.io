@@ -24,3 +24,15 @@ with open('vars.pkl', 'wb') as f:
 with open('vars.pkl', 'rb') as f:
   X_train, X_test, y_train, y_test = pickle.load(f)
 ```
+
+Pickle has some security and maintainability issues, so it's better to use joblib for large numpy arrays:
+
+```python
+from joblib import dump, load
+
+# Save the variables to a file
+dump([X_train, X_test, y_train, y_test], 'vars.joblib')
+
+# Load the variables from a file
+X_train, X_test, y_train, y_test = load('vars.joblib')
+```
