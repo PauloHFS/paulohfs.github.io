@@ -34,3 +34,27 @@ To handle missing values, you can use the `fillna()` method to fill in the missi
 # Fill missing values with the mean of the column
 data.fillna(data.mean(), inplace=True)
 ```
+
+to better peform the imputation you can use the `SimpleImputer` class from scikit-learn:
+
+```python
+from sklearn.impute import SimpleImputer
+
+# Create an imputer object
+imputer = SimpleImputer(strategy='mean')
+
+# Fit the imputer to the data
+imputer.fit(X_train)
+
+# Transform the training and testing sets
+X_train_imputed = imputer.transform(X_train)
+
+X_test_imputed = imputer.transform(X_test)
+```
+
+Seeking better models performance we can add a new column to the dataset to indicate if the value was imputed or not:
+
+```python
+# Create a new column to indicate if the value was imputed
+data['column_was_imputed'] = data['column'].isnull().astype(int)
+```
