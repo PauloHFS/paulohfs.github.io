@@ -10,3 +10,17 @@ Data pre-processing is a crucial step in the data analysis process. It involves 
 3. Data standardization: Normalize the data to a common scale to make it easier to compare.
 4. Data transformation: Convert categorical data into numerical values using techniques like one-hot encoding.
 5. Introduction of models validation: Split the data into training and testing sets to evaluate the model's performance.
+
+How to save the vars in a file and load them later:
+
+```python
+import pickle
+
+# Save the variables to a file
+with open('vars.pkl', 'wb') as f:
+  pickle.dump([X_train, X_test, y_train, y_test], f)
+
+# Load the variables from a file
+with open('vars.pkl', 'rb') as f:
+  X_train, X_test, y_train, y_test = pickle.load(f)
+```
