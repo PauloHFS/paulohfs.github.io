@@ -5,7 +5,7 @@ title: Machine Learning and Data Science from A to Z
 
 Part 1 - Classification
 
-- Pre-processing
+- Data Pre-processing
 - Naive Bayes
 - Decision Trees
 - Random Forest
