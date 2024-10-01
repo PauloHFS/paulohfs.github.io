@@ -10,7 +10,7 @@ Part 1 - Classification
 - Decision Trees
 - Random Forest
 - Rule-based models
-- KNN (K-Nearest Neighbors)
+- Instance-based models (KNN)
 - Logistic Regression
 - SVM (Support Vector Machines)
 - Artificial Neural Networks
