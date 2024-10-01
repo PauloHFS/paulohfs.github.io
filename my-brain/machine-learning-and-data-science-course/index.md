@@ -48,3 +48,20 @@ Part 5 - Complementary topics
 - Dimensionality reduction (PCA, LDA)
 - Outliers detection
 - Time series
+
+### Machine Learning
+
+We can divide the machine learning in two methods:
+
+Predictive: The model learns from the data to make predictions.
+
+- Classification: The model predicts a category.
+- Regression: The model predicts a continuous value.
+
+Descriptive: The model learns from the data to describe the data.
+
+- Clustering: The model groups similar data.
+- Association: The model finds rules that describe the data.
+- Sumarization: The model summarizes the data.
+- Sequence discovery: The model finds patterns in the data.
+- Anomaly detection: The model finds outliers in the data.
