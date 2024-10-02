@@ -12,3 +12,8 @@ Examples:
 - Spam detection
 - Sentiment analysis
 - Document classification
+
+References:
+
+[Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) - Wikipedia
+[Naïve Bayes Classifier - Fun and Easy Machine Learning](https://youtu.be/CPqOCI0ahss?si=iPAvQsJcYpNZyYjG) - Augmented AI Channel
