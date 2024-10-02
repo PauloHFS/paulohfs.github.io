@@ -9,9 +9,8 @@ The kernel is a abstraction layer between the hardware and the software. It is t
 
 ![alt text](image.png)
 
-In a computer we have a cpu, ram, dram, ssd, etc.
-
 The kernel has
+The kernel has:
 
 - scheduler to manage the processes on cpu
 - manages the hardware (kernel drivers, kernel infrastructure)
