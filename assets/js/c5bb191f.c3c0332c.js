@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[7708],{1932:e=>{e.exports=JSON.parse('{"tag":{"label":"driver","permalink":"/my-brain/tags/driver","allTagsPath":"/my-brain/tags","count":1,"items":[{"id":"linux/driver","title":"Driver","description":"alt text","permalink":"/my-brain/linux/driver"}],"unlisted":false}}')}}]);
