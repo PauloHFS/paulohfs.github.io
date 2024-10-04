@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[6313],{769:a=>{a.exports=JSON.parse('{"tag":{"label":"math","permalink":"/my-brain/tags/math","allTagsPath":"/my-brain/tags","count":1,"items":[{"id":"math/math","title":"Math","description":"This section is about math.","permalink":"/my-brain/math/"}],"unlisted":false}}')}}]);
