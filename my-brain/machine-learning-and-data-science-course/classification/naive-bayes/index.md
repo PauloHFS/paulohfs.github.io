@@ -1,6 +1,7 @@
 ---
 id: "naive-bayes"
 name: "Naive Bayes"
+tags: ["machine learning", "classification"]
 ---
 
 Naive Bayes is a classification algorithm based on Bayes' theorem. It is simple and fast, and it is often used as a baseline for comparison with other more complex algorithms.
