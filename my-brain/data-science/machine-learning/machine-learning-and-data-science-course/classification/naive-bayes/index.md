@@ -14,6 +14,8 @@ Examples:
 - Sentiment analysis
 - Document classification
 
+The result of the algorithm is a table of probabilities that can be used to make predictions.
+
 References:
 
 [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) - Wikipedia
