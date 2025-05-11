@@ -1,5 +1,11 @@
 paulohfs:
   name: Paulo Hernane
-  title: Software Engineer
-  url: https://github.com/paulohfs
-  image_url: https://github.com/paulohfs.png
+  title: Software Engineer, Co-founder and CTO @ Takeode
+  url: https://github.com/PauloHFS
+  image_url: https://github.com/PauloHFS.png
+  page: true
+  socials:
+    x: paulo_hfs
+    github: PauloHFS
+    linkedin: paulohernane
+    newsletter: https://paulohfs.github.io/blog
