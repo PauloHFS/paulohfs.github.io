@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpaulohernane_me=self.webpackChunkpaulohernane_me||[]).push([[930],{9971:e=>{e.exports=JSON.parse('{"tag":{"label":"sqlite","permalink":"/my-brain/tags/sqlite","allTagsPath":"/my-brain/tags","count":1,"items":[{"id":"databases/sqlite","title":"SQLite","description":"Summary:","permalink":"/my-brain/databases/sqlite"}],"unlisted":false}}')}}]);

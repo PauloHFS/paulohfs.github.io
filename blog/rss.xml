@@ -4,302 +4,86 @@
         <title>Paulo Hernane Blog</title>
         <link>https://paulohfs.github.io/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Mon, 11 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Day 22 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-22-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-22-100-days-of-code</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[machine learning, algorithms]]></description>
-            <content:encoded><![CDATA[<p>Today I study about the Silhouette Analysis, this is based on generate a metric to validate the correctness of a clustering algorithm. You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering">here</a>.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 21 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-21-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-21-100-days-of-code</guid>
-            <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[machine learning, algorithms]]></description>
-            <content:encoded><![CDATA[<p>Today I study about about Machine Learning, specifically about the K-Means Clustering Algorithm, you can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/machine-learning/k-means-clustering">here</a>, and the code <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1">here</a>.</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about K-Means Clustering Algorithm</li>
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about Expectation Maximization Algorithm</li>
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Study about Elbow Method to find the best number of clusters</li>
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->Done notebook on college for the K-Means Clustering Algorithm</li>
-</ul>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 20 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-20-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-20-100-days-of-code</guid>
-            <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[College work]]></description>
-            <content:encoded><![CDATA[<p>Today was my rest day and I only study a little about some algorithms that I learn on college.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 19 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-19-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-19-100-days-of-code</guid>
-            <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[I setup a minecraft modded server]]></description>
-            <content:encoded><![CDATA[<p>So today is my birthday, so I work on something special, today with my friends I build a minecraft modpack and buy a host to upload a minecraft server, so I spend all day building the server and configuring the mods.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 18 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-18-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-18-100-days-of-code</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Continue to implement a project to college using expo, expo router, zustand e supabase]]></description>
-            <content:encoded><![CDATA[<p>Today I refactor some screen of the app that I'm building to study some concepts, I'm using expo, expo router, zustand e supabase. I'm using this project to learn more about this technologies and to test some concepts. I will start to write some test cause I want to learn more about testing in react native.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 17 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-17-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-17-100-days-of-code</guid>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Study about mobile develop]]></description>
-            <content:encoded><![CDATA[<p>Today I continue to implement a project to college using expo, expo router, zustand e supabase. I'm using this project to learn more about this technologies and to test some concepts. I will start to write some test cause I want to learn more about testing in react native.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 16 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-16-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-16-100-days-of-code</guid>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Study a lot about node js and legacy code]]></description>
-            <content:encoded><![CDATA[<p>Today at work I had to start to study a legacy code that I will work with new features soon, to make my life more easy I start doing some this:</p>
+            <title><![CDATA[Dev Log 1]]></title>
+            <link>https://paulohfs.github.io/blog/dev-log-1</link>
+            <guid>https://paulohfs.github.io/blog/dev-log-1</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Essa semana de foi intensa e cheia de aprendizados. Estou animado para compartilhar o que fiz, o que aprendi e o que ainda está pendente.]]></description>
+            <content:encoded><![CDATA[<p>Essa semana de foi intensa e cheia de aprendizados. Estou animado para compartilhar o que fiz, o que aprendi e o que ainda está pendente.
+Vamos lá!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-lacina">🧪 LACINA<a href="https://paulohfs.github.io/blog/dev-log-1#-lacina" class="hash-link" aria-label="Direct link to 🧪 LACINA" title="Direct link to 🧪 LACINA">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-concluído">✅ Concluído<a href="https://paulohfs.github.io/blog/dev-log-1#-conclu%C3%ADdo" class="hash-link" aria-label="Direct link to ✅ Concluído" title="Direct link to ✅ Concluído">​</a></h4>
 <ul>
-<li>Create a Wiki to document the project</li>
-<li>Search for all the deploys and the history of the project</li>
-<li>Add Sentry to monitor the errors on live project</li>
-<li>Update some dependencies</li>
-<li>Update the build process to use the new version of node, and add some new features to the build process (need by some dependencies)</li>
+<li>Esta semana trabalhei realizando a implementação de um novo recurso que permitirar os usuários do nosso sistema de ETL realizar a Transposição dos dados, ou seja, transformar linhas em colunas e vice-versa. Comecei pelo back end realizando a integração do código C# do nosso sistema com o Python do PySpark, que é a ferramenta que utilizamos para realizar o processamento dos dados. Ainda estou com um problema para fechar esse fluxo para avaliar a execução.</li>
 </ul>
-<p>Also at the end of the day I continue to build my POC to test some concepts, today I decided what problem I want to solve. The problem is, I want to process some data using some async data handler, this handler has rate limit and can fail in process data, so I need to implement a solution to retry some times I want, need to handle the rate limit and need to build a circuit breaker to handle the errors, also the handler is in a pipeline, if a handler fail the next handler will be called and the have the same problem.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 15 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-15-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-15-100-days-of-code</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hard day of work ;D]]></description>
-            <content:encoded><![CDATA[<p>Today I start to build a prof of concept to test some concepts like Idempotency, Batch Processing, Circuit Breaker, background jobs, and message queues. I build this project relearn how to configure node with typescript and build the project with Dockerfile and run a infra local with docker-compose. <a href="https://github.com/PauloHFS/idempotency-poc">Here</a> you can see the source code. Alongside I start to learn more about IPC (Inter-Process Communication).</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 14 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-14-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-14-100-days-of-code</guid>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Data Science]]></description>
-            <content:encoded><![CDATA[<p>Today I start to solve a colab notebook from college. In this notebook, I use the pandas library to read a csv file and do some data analysis. The dataset that I used was <a href="https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fspscientist%2Fstudents-performance-in-exams">this</a>. The focus of this notebook was to use the <a href="https://plotly.com/python">plotly</a> library to create some graphs.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>DataScience</category>
-            <category>Python</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 13 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-13-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-13-100-days-of-code</guid>
-            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Expo Router, Supabase, PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Today I continue to implements the Supabase to my project, I also learn about the new expo router and how to use it.</p>
-<p>Also I start to read the book The art of multi-processors programming.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 12 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-12-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-12-100-days-of-code</guid>
-            <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Expo Router, Supabase, PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Today I start to integrate Supabase to my project using the expo, I also learn about the new expo router and how to use it.</p>
-<p>Using the Supabase I start to learn some new thing like: Row Level Security, Stored Procedures, Triggers, PL/pgSQL, and Functions.</p>
-<p>I also learn more about the <a href="https://www.postgresql.org/">PostgreSQL</a> and how to use it.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 11 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-11-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-11-100-days-of-code</guid>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today I continue to study about the Object Relational Database using Oracle DB to a exam that I had at afternoon.]]></description>
-            <content:encoded><![CDATA[<p>Today I continue to study about the <a href="https://en.wikipedia.org/wiki/Object-relational_database">Object Relational Database</a> using Oracle DB to a exam that I had at afternoon.</p>
-<p>At night I start to build a project using the expo and learn about the new expo router.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Oracle</category>
-            <category>DB</category>
-            <category>ODB</category>
-            <category>Object Relational Database</category>
-            <category>Object Types</category>
-            <category>Object Tables</category>
-            <category>Methods</category>
-            <category>Procedures</category>
-            <category>Functions</category>
-            <category>VArray</category>
-            <category>Nested Tables</category>
-            <category>Expo</category>
-            <category>React Native</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 10 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-10-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-10-100-days-of-code</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Study to a exam]]></description>
-            <content:encoded><![CDATA[<p>Today I studied about the <a href="https://en.wikipedia.org/wiki/Object-relational_database">Object Relational Database</a> using Oracle DB to a exam that I have tomorrow.</p>
-<p>I learn about:</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-aprendizado">📖 Aprendizado<a href="https://paulohfs.github.io/blog/dev-log-1#-aprendizado" class="hash-link" aria-label="Direct link to 📖 Aprendizado" title="Direct link to 📖 Aprendizado">​</a></h4>
 <ul>
-<li>Object Types</li>
-<li>Object Tables</li>
-<li>Methods (Procedures &amp; Functions)</li>
-<li>VArray</li>
-<li>Nested Tables</li>
-</ul>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Oracle</category>
-            <category>DB</category>
-            <category>ODB</category>
-            <category>Object Relational Database</category>
-            <category>Object Types</category>
-            <category>Object Tables</category>
-            <category>Methods</category>
-            <category>Procedures</category>
-            <category>Functions</category>
-            <category>VArray</category>
-            <category>Nested Tables</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 9 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-9-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-9-100-days-of-code</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[A lot of TypeScript]]></description>
-            <content:encoded><![CDATA[<p>Today was a hard, I had to update the typescript of a old project so I had to study about the typescript <a href="https://www.typescriptlang.org/docs/handbook/module-resolution.html">module resolution</a> and the <a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html">tsconfig.json</a> file.</p>
-<p>I also studied about Circuit Break and how to implement it in a NodeJS project, I will write about it in the next days.</p>
-<p>References that I used to study:</p>
-<p><a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker">https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker</a>
-<a href="https://youtu.be/H91aqUHn8sE">https://youtu.be/H91aqUHn8sE</a></p>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Distributed Systems</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 8 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-8-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-8-100-days-of-code</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Correlation and Distributed Systems]]></description>
-            <content:encoded><![CDATA[<p>Today I had a Data Science class and I learned about correlation.You can see my notes <a href="https://paulohfs.github.io//my-brain/data-science/correlation">here</a>, they are incomplete but at the end of this week I will complete them whem reviewing the content to work on a dataset that I had to finish until thursday.</p>
-<p>After that I had some mentorship about distributed systems and some projects to build to improve my skills, you can see the notes <a href="https://paulohfs.github.io//my-brain/system-design">here</a>.</p>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Data Science</category>
-            <category>Distributed Systems</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 7 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-7-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-7-100-days-of-code</guid>
-            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sunday of rest and study]]></description>
-            <content:encoded><![CDATA[<p>Today was a day to rest, but I study a little bit of ODB. I did some exercicies that my professor gave me. You can see <a href="https://paulohfs.github.io//my-brain/databases/exercicies/quiz-a1-q1">here</a></p>
-<p>I learn this concepts:</p>
-<ul>
-<li>Object Type</li>
-<li>Object Table</li>
-<li>Function</li>
-<li>Method</li>
+<li>Com essa implementação, aprendi mais sobre Parquet, PySpark, Pandas, Polars e a diferença entre eles. Também aprendi mais sobre o funcionamento do nosso sistema de ETL e como ele se integra com o PySpark.</li>
+<li>Aprendi sobre processamento de dados em massa e como otimizar o desempenho do sistema.</li>
 </ul>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>ODB</category>
-            <category>English</category>
-            <category>Oracle</category>
-            <category>Database</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 6 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-6-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-6-100-days-of-code</guid>
-            <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[A slow day, but I do some things]]></description>
-            <content:encoded><![CDATA[<p>Today was a slow day for me, I can't concentrate to study, but I do some things.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-pendências">📌 Pendências<a href="https://paulohfs.github.io/blog/dev-log-1#-pend%C3%AAncias" class="hash-link" aria-label="Direct link to 📌 Pendências" title="Direct link to 📌 Pendências">​</a></h4>
 <ul>
-<li>Study about Concurrency and Parallelism in general. I see the diferences an learning that they are concepts that are related, but not the same thing. I write a <a href="https://paulohfs.github.io//my-brain/concurrent-programming/concurrency-vs-parallelism">node</a> about it.</li>
-<li>I study Golang, start to build a Rest API using a tutorial, but I don't finish it because I fell that I need to learn more about the syntax and the language itself. So I build a validate CPF function with some unit tests, and I learn about the <code>go test</code> command. The validate CPF is a nice function to implement in a new language because its need a lot of things like: string manipulation, loops, type conversion, and more. So it is nice to now what you need to now about a new language!</li>
+<li>Fechar a integração do código C# com o PySpark.</li>
+<li>Realizar testes de desempenho e validação dos dados após a transposição.</li>
+<li>Criar a documentação do novo recurso.</li>
+<li>Criar o front end para o novo recurso.</li>
 </ul>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>go</category>
-            <category>English</category>
-            <category>Concurrent Programming</category>
-            <category>Process</category>
-            <category>Thread</category>
-            <category>Routine</category>
-            <category>Concurrency</category>
-            <category>Parallelism</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 5 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-5-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-5-100-days-of-code</guid>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Studying SWC, ORD and Godot]]></description>
-            <content:encoded><![CDATA[<p>Today was nice, I study lot of things and at the end of the day I release a game!</p>
-<p>I tested the SWC to transpile the ts code, and I setup this to work on a project at work. At afternoon I study about Object Relational Database in college, so I do a little <a href="https://paulohfs.github.io//my-brain/databases/exercicies/in-class-exercice-1">experiments</a> with my professor. At night I studied Godot, and build the 2D game tutorial and release it, you can download it <a href="https://github.com/PauloHFS/dodge-the-creeps">here</a>. I learn a lot of GDScript and the godot engine like: scenes, signals, animation, and more. Was a nice day.</p>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>. <a href="https://www.100diasdecodigo.dev/">PT-BR</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>SWC</category>
-            <category>ORD</category>
-            <category>Godot</category>
-            <category>English</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 4 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-4-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-4-100-days-of-code</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Studying Typescript, ESLint, Prettier and zod]]></description>
-            <content:encoded><![CDATA[<p>Today I was very busy with work and college, but I managed to study, so I see this topics today:</p>
-<p>I do this in a old work project, I rework the configuration because was old and broken, so I can't share the code, but I will try to do a post about this topics soon.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-observações">💭 Observações<a href="https://paulohfs.github.io/blog/dev-log-1#-observa%C3%A7%C3%B5es" class="hash-link" aria-label="Direct link to 💭 Observações" title="Direct link to 💭 Observações">​</a></h4>
 <ul>
-<li><a href="https://www.digitalocean.com/community/tutorials/typescript-new-project">How to configure Typescript</a> with <a href="https://blog.logrocket.com/configuring-nodemon-with-typescript/">nodemon</a> and ts-node to run a NodeJS project on development mode. I hade some problems with the ESM, that make me see more about use <code>nodenext</code> in the tscompiler configuration.</li>
-<li>How to configure ESLint and Prettier to work with Typescript.</li>
-<li>How to configure the build in this configuration. aka <code>tsc --build</code> and <code>tsc --watch</code>.</li>
-<li>How to use zod to validate data in Typescript. I used this library to <a href="https://sergiodxa.com/articles/using-zod-to-safely-read-env-variables">parse the .env file</a> and validate the environment variables.</li>
+<li>Sinto que demorei muito essas semana para decidir o que implementar como teste inicial, sinto que eu já deveria está realizando testes de desempenho e validação dos dados. Mas como é a primeira vez que estou implementando algo assim, acabei me perdendo um pouco no meio do caminho. Será meu objetivo da semana que vem.</li>
 </ul>
-<p>Want to know about the 100 Days of Code Challenge? Check it out <a href="https://www.100daysofcode.com/">here</a>.
-Brazil: <a href="https://www.100diasdecodigo.dev/">100 dias de codigo</a></p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Typescript</category>
-            <category>NodeJS</category>
-            <category>ESLint</category>
-            <category>Prettier</category>
-            <category>zod</category>
-            <category>English</category>
-        </item>
-        <item>
-            <title><![CDATA[Day 3 of 100 Days of Code]]></title>
-            <link>https://paulohfs.github.io/blog/day-3-100-days-of-code</link>
-            <guid>https://paulohfs.github.io/blog/day-3-100-days-of-code</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Finishing the second lab of my Data Science class]]></description>
-            <content:encoded><![CDATA[<p>Today I finished the second lab for my Data Science class, I used Pandas and <a href="https://seaborn.pydata.org/">Seaborn</a> library to plot some histograms and boxplots, maybe I would write a post about it soon. You can check the notebook <a href="https://github.com/PauloHFS/descriptive-data-analysis-2023-1/blob/main/Lab2A_EDA%2C_Histogramas%2C_Sumarizacao.ipynb">here</a>.</p>
-<p>I also study English and Concurrent Programming to a exam that I will have tomorrow.</p>]]></content:encoded>
-            <category>100DaysOfCode</category>
-            <category>Seaborn</category>
-            <category>Pandas</category>
-            <category>Data Science</category>
-            <category>English</category>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-takeode">🚀 Takeode<a href="https://paulohfs.github.io/blog/dev-log-1#-takeode" class="hash-link" aria-label="Direct link to 🚀 Takeode" title="Direct link to 🚀 Takeode">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-concluído-1">✅ Concluído<a href="https://paulohfs.github.io/blog/dev-log-1#-conclu%C3%ADdo-1" class="hash-link" aria-label="Direct link to ✅ Concluído" title="Direct link to ✅ Concluído">​</a></h4>
+<ul>
+<li>Avancei com a construção do nosso site institucional, ainda tem muita coisa de design que a gente tem que ajustar, mas a estrutura básica já está pronta. O próximo passo é começar a trabalhar na parte de conteúdo e SEO.</li>
+<li>Também finalizei a integração do nosso site com o Google Analytics e o Google Search Console, para acompanhar o desempenho do site e as métricas de SEO. Mas ainda tá com um problema que ainda vou investigar.</li>
+<li>Dei uma avaliada em um repositório que é um starter de aplicativo com Expo + Supabase, que é a nossa stack de desenvolvimento. O repositório é bem legal e tem várias funcionalidades que podem ser úteis para o nosso projeto. Vou continuar explorando ele e ver como podemos integrar no nosso projeto.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-aprendizado-1">📖 Aprendizado<a href="https://paulohfs.github.io/blog/dev-log-1#-aprendizado-1" class="hash-link" aria-label="Direct link to 📖 Aprendizado" title="Direct link to 📖 Aprendizado">​</a></h4>
+<ul>
+<li>Aprendi mais sobre SEO e como otimizar o site para os motores de busca. Também aprendi mais sobre o Google Analytics e o Google Search Console, como configurar e acompanhar as métricas do site.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-pendências-1">📌 Pendências<a href="https://paulohfs.github.io/blog/dev-log-1#-pend%C3%AAncias-1" class="hash-link" aria-label="Direct link to 📌 Pendências" title="Direct link to 📌 Pendências">​</a></h4>
+<ul>
+<li>Ainda tenhos que trabalhar na finalização do site institucional.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-observações-1">💭 Observações<a href="https://paulohfs.github.io/blog/dev-log-1#-observa%C3%A7%C3%B5es-1" class="hash-link" aria-label="Direct link to 💭 Observações" title="Direct link to 💭 Observações">​</a></h4>
+<ul>
+<li>Acho que o site institucional vai ficar bem legal, mas ainda tem muito trabalho pela frente. Estou animado para ver como ele vai ficar quando estiver pronto.</li>
+<li>Também estou animado para ver como o repositório do Expo + Supabase vai se integrar ao nosso projeto. Acredito que vai facilitar bastante o desenvolvimento e a manutenção do aplicativo.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-projetos-pessoais">🛠️ Projetos Pessoais<a href="https://paulohfs.github.io/blog/dev-log-1#%EF%B8%8F-projetos-pessoais" class="hash-link" aria-label="Direct link to 🛠️ Projetos Pessoais" title="Direct link to 🛠️ Projetos Pessoais">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-concluído-2">✅ Concluído<a href="https://paulohfs.github.io/blog/dev-log-1#-conclu%C3%ADdo-2" class="hash-link" aria-label="Direct link to ✅ Concluído" title="Direct link to ✅ Concluído">​</a></h4>
+<ul>
+<li>Troquei o cooler do meu homelab, que estava muito barulhento e não estava dando conta do calor do processador. O novo cooler é muito mais silencioso e eficiente, o que melhorou bastante o desempenho do homelab.</li>
+<li>Subi o jupyter no meu homelab e tô rodando alguns testes com ele, atualmente estou fazendo uma RAG com os chats que exportei do Whatsapp com meus amigos.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-aprendizado-2">📖 Aprendizado<a href="https://paulohfs.github.io/blog/dev-log-1#-aprendizado-2" class="hash-link" aria-label="Direct link to 📖 Aprendizado" title="Direct link to 📖 Aprendizado">​</a></h4>
+<ul>
+<li>Aprendi mais sobre LangChain, LLMs, Vectors databases, Ollama, Jupyter e como integrar tudo isso com o meu homelab.</li>
+<li>Aprendi mais sobre o funcionamento do meu homelab e como otimizar o desempenho dele. Também aprendi mais sobre o funcionamento do cooler e como ele afeta o desempenho do processador.</li>
+<li>Aprendi a configurar o Alert do Grafana para me avisar quando a temperatura do processador passar de 80 graus, o que me ajudou a evitar problemas de superaquecimento.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-pendências-2">📌 Pendências<a href="https://paulohfs.github.io/blog/dev-log-1#-pend%C3%AAncias-2" class="hash-link" aria-label="Direct link to 📌 Pendências" title="Direct link to 📌 Pendências">​</a></h4>
+<ul>
+<li>Ainda tenho que configurar backups automáticos para o meu homelab, atualmente estou fazendo manualmente e não é muito prático.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="-observações-2">💭 Observações<a href="https://paulohfs.github.io/blog/dev-log-1#-observa%C3%A7%C3%B5es-2" class="hash-link" aria-label="Direct link to 💭 Observações" title="Direct link to 💭 Observações">​</a></h4>
+<ul>
+<li>Estou satisfeito com as melhorias que fiz no meu homelab e estou animado para continuar explorando novas tecnologias e otimizações.</li>
+</ul>
+<p>Ainda teve muitas outras coisas que fiz essa semana mas acabei não anotando, então não vou lembrar de tudo. Mas no geral foi uma semana produtiva e cheia de aprendizados. Estou animado para ver o que a próxima semana vai trazer, vou tentar anotar mais as coisas que fiz e aprendi para compartilhar com vocês.</p>]]></content:encoded>
+            <category>code</category>
+            <category>programming</category>
+            <category>routine</category>
+            <category>dev-log</category>
         </item>
     </channel>
 </rss>
