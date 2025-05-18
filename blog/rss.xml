@@ -4,10 +4,34 @@
         <title>Paulo Hernane Blog</title>
         <link>https://paulohfs.github.io/blog</link>
         <description>Paulo Hernane Blog</description>
-        <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dev Log 2]]></title>
+            <link>https://paulohfs.github.io/blog/dev-log-2</link>
+            <guid>https://paulohfs.github.io/blog/dev-log-2</guid>
+            <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enfim domingo, essa semana foi doidera, foquei mais nas coisas do Lacina, Takeode e meu TCC, acabei não tendo tempo para trabalhar no meu Homelab.]]></description>
+            <content:encoded><![CDATA[<p>Enfim domingo, essa semana foi doidera, foquei mais nas coisas do Lacina, Takeode e meu TCC, acabei não tendo tempo para trabalhar no meu Homelab.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-lacina">🧪 LACINA<a href="https://paulohfs.github.io/blog/dev-log-2#-lacina" class="hash-link" aria-label="Direct link to 🧪 LACINA" title="Direct link to 🧪 LACINA">​</a></h3>
+<p>Essa semana eu fiquei validando a implementação que fiz semana passada em manipular Parquets com o PySpark, descobri alguns problemas que ainda não deu para executar a função no PySpark que eu escrevi, mas na quinta eu já descobri qual foi problema e nessa proxima semana eu já vou conseguir corrigir para continuar testando.</p>
+<p>Aprendi cada vez mais sobre o PySpark, acho que preciso tirar um tempo para focar apenas nele.</p>
+<p>Mais uma vez, estou trabado nessa atividade de transposição de dados, mas já estou quase lá. Preciso corrigir o código que escrevi e validar a execução.</p>
+<p>Acho que essa semana foi proveitosa, consegui aprender bem mais sobre os fluxos na nossa aplicação enquanto debugava o código.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-takeode">🚀 Takeode<a href="https://paulohfs.github.io/blog/dev-log-2#-takeode" class="hash-link" aria-label="Direct link to 🚀 Takeode" title="Direct link to 🚀 Takeode">​</a></h3>
+<p>Essa semana eu tirei para criar uma nova codebase para um dos nosso projetos, o que nos levou para São Paulo na Campus Mobile. Subi um repositório novo com Expo + Supabase, baseado num boilerplate que encontrei no Github. Depois coloquei as rotas da aplicação antiga e configurei o ambiente local do Supabase. As coisas estão rodando, mas ainda precisa de bastante refatoração</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-projetos-pessoais">🛠️ Projetos Pessoais<a href="https://paulohfs.github.io/blog/dev-log-2#%EF%B8%8F-projetos-pessoais" class="hash-link" aria-label="Direct link to 🛠️ Projetos Pessoais" title="Direct link to 🛠️ Projetos Pessoais">​</a></h3>
+<p>Essa semana eu não consegui trabalhar nos meu projetos pessoais fora o TCC. No TCC eu fiz algumas melhorias que meu orientado pediu depois de testar a v0 do projeto. Passei então meu tempo livre para fazer essas melhorias e testar o projeto. Creio que segunda eu vá lançar uma v0.1 do projeto para ele voltar a testar e ver o que mais precisa ser melhorado.
+No meu homelab eu apenas subi o glance para colocar no lugar do meu Dashy como dashboard. Também subi o emulatorjs mas não consegui configurar para ele identificar as ROMs que coloquei, ainda vou avaliar se as ROMs que estão erradas ou o emulatorjs que não tá configurado corretamente.</p>]]></content:encoded>
+            <category>code</category>
+            <category>programming</category>
+            <category>routine</category>
+            <category>dev-log</category>
+        </item>
         <item>
             <title><![CDATA[Dev Log 1]]></title>
             <link>https://paulohfs.github.io/blog/dev-log-1</link>

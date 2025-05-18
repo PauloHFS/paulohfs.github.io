@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paulohfs.github.io/blog</id>
     <title>Paulo Hernane Blog</title>
-    <updated>2025-05-09T00:00:00.000Z</updated>
+    <updated>2025-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paulohfs.github.io/blog"/>
     <subtitle>Paulo Hernane Blog</subtitle>
     <icon>https://paulohfs.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dev Log 2]]></title>
+        <id>https://paulohfs.github.io/blog/dev-log-2</id>
+        <link href="https://paulohfs.github.io/blog/dev-log-2"/>
+        <updated>2025-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enfim domingo, essa semana foi doidera, foquei mais nas coisas do Lacina, Takeode e meu TCC, acabei não tendo tempo para trabalhar no meu Homelab.]]></summary>
+        <content type="html"><![CDATA[<p>Enfim domingo, essa semana foi doidera, foquei mais nas coisas do Lacina, Takeode e meu TCC, acabei não tendo tempo para trabalhar no meu Homelab.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-lacina">🧪 LACINA<a href="https://paulohfs.github.io/blog/dev-log-2#-lacina" class="hash-link" aria-label="Direct link to 🧪 LACINA" title="Direct link to 🧪 LACINA">​</a></h3>
+<p>Essa semana eu fiquei validando a implementação que fiz semana passada em manipular Parquets com o PySpark, descobri alguns problemas que ainda não deu para executar a função no PySpark que eu escrevi, mas na quinta eu já descobri qual foi problema e nessa proxima semana eu já vou conseguir corrigir para continuar testando.</p>
+<p>Aprendi cada vez mais sobre o PySpark, acho que preciso tirar um tempo para focar apenas nele.</p>
+<p>Mais uma vez, estou trabado nessa atividade de transposição de dados, mas já estou quase lá. Preciso corrigir o código que escrevi e validar a execução.</p>
+<p>Acho que essa semana foi proveitosa, consegui aprender bem mais sobre os fluxos na nossa aplicação enquanto debugava o código.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-takeode">🚀 Takeode<a href="https://paulohfs.github.io/blog/dev-log-2#-takeode" class="hash-link" aria-label="Direct link to 🚀 Takeode" title="Direct link to 🚀 Takeode">​</a></h3>
+<p>Essa semana eu tirei para criar uma nova codebase para um dos nosso projetos, o que nos levou para São Paulo na Campus Mobile. Subi um repositório novo com Expo + Supabase, baseado num boilerplate que encontrei no Github. Depois coloquei as rotas da aplicação antiga e configurei o ambiente local do Supabase. As coisas estão rodando, mas ainda precisa de bastante refatoração</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-projetos-pessoais">🛠️ Projetos Pessoais<a href="https://paulohfs.github.io/blog/dev-log-2#%EF%B8%8F-projetos-pessoais" class="hash-link" aria-label="Direct link to 🛠️ Projetos Pessoais" title="Direct link to 🛠️ Projetos Pessoais">​</a></h3>
+<p>Essa semana eu não consegui trabalhar nos meu projetos pessoais fora o TCC. No TCC eu fiz algumas melhorias que meu orientado pediu depois de testar a v0 do projeto. Passei então meu tempo livre para fazer essas melhorias e testar o projeto. Creio que segunda eu vá lançar uma v0.1 do projeto para ele voltar a testar e ver o que mais precisa ser melhorado.
+No meu homelab eu apenas subi o glance para colocar no lugar do meu Dashy como dashboard. Também subi o emulatorjs mas não consegui configurar para ele identificar as ROMs que coloquei, ainda vou avaliar se as ROMs que estão erradas ou o emulatorjs que não tá configurado corretamente.</p>]]></content>
+        <author>
+            <name>Paulo Hernane</name>
+            <uri>https://github.com/PauloHFS</uri>
+        </author>
+        <category label="code" term="code"/>
+        <category label="programming" term="programming"/>
+        <category label="routine" term="routine"/>
+        <category label="dev-log" term="dev-log"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dev Log 1]]></title>
         <id>https://paulohfs.github.io/blog/dev-log-1</id>
